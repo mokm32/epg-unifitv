@@ -1,0 +1,132 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<tv date="20260527165520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/397396/20260527.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=397396&date=20260527&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<channel id="397396">
+<display-name lang="Malaysia">Astro Premier League</display-name>
+<icon src="https://epg.pw/media/images/epg/2024/10/18/20241018011443588338_92.png"/>
+</channel>
+<programme channel="397396" start="20260527020000 +0800" stop="20260527041000 +0800">
+<title lang="zh">PL: Crystal Palace vs Arsenal</title>
+<desc>Premier League 2025/26: Match Week 38: Crystal Palace vs. Arsenal, from Selhurst Park.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527041000 +0800" stop="20260527062000 +0800">
+<title lang="zh">PL: Fulham vs Newcastle</title>
+<desc>Premier League 2025/26: Match Week 38: Fulham vs. Newcastle United, from Craven Cottage.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527062000 +0800" stop="20260527083000 +0800">
+<title lang="zh">PL: Nottm Forest vs Bournemouth</title>
+<desc>Premier League 2025/26: Match Week 38: Nottingham Forest vs. A.F.C. Bournemouth, from The City Ground.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527083000 +0800" stop="20260527104000 +0800">
+<title lang="zh">PL: Brighton vs Man Utd</title>
+<desc>Premier League 2025/26: Match Week 38: Brighton & Hove Albion vs. Manchester United, from American Express Stadium.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527104000 +0800" stop="20260527111000 +0800">
+<title lang="zh">Netbusters 2025/26: Ep38</title>
+<desc>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527111000 +0800" stop="20260527114000 +0800">
+<title lang="zh">Match HL 2025/26: WK38: TOT vs EVE</title>
+<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527114000 +0800" stop="20260527135000 +0800">
+<title lang="zh">PL: Crystal Palace vs Arsenal</title>
+<desc>Premier League 2025/26: Match Week 38: Crystal Palace vs. Arsenal, from Selhurst Park.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527135000 +0800" stop="20260527160000 +0800">
+<title lang="zh">PL: Sunderland vs Chelsea</title>
+<desc>Premier League 2025/26: Match Week 38: Sunderland vs. Chelsea, from Stadium of Light.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527160000 +0800" stop="20260527181000 +0800">
+<title lang="zh">PL: Liverpool vs Brentford</title>
+<desc>Premier League 2025/26: Match Week 38: Liverpool vs. Brentford, from Anfield.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527181000 +0800" stop="20260527202000 +0800">
+<title lang="zh">PL: Man City vs Aston Villa</title>
+<desc>Premier League 2025/26: Match Week 38: Manchester City vs. Aston Villa, from Etihad Stadium.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527202000 +0800" stop="20260527212000 +0800">
+<title lang="zh">Generation XG 2025/26: Ep32</title>
+<desc>Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527212000 +0800" stop="20260527233000 +0800">
+<title lang="zh">PL: Brighton vs Man Utd</title>
+<desc>Premier League 2025/26: Match Week 38: Brighton & Hove Albion vs. Manchester United, from American Express Stadium.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260527233000 +0800" stop="20260528000000 +0800">
+<title lang="zh">PL: Sunderland vs Chelsea</title>
+<desc>Premier League 2025/26: Match Week 38: Sunderland vs. Chelsea, from Stadium of Light.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="397396" start="20260528014000 +0800" stop="20260528035000 +0800">
+<title lang="zh">PL: West Ham vs Leeds</title>
+<desc>Premier League 2025/26: Match Week 38: West Ham United vs. Leeds United, from London Stadium.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528035000 +0800" stop="20260528060000 +0800">
+<title lang="zh">PL: Burnley vs Wolves</title>
+<desc>Premier League 2025/26: Match Week 38: Burnley vs. Wolverhampton Wanderers, from Turf Moor.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528060000 +0800" stop="20260528081000 +0800">
+<title lang="zh">PL: West Ham vs Leeds</title>
+<desc>Premier League 2025/26: Match Week 38: West Ham United vs. Leeds United, from London Stadium.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528081000 +0800" stop="20260528121000 +0800">
+<title lang="zh">PL: Tottenham vs Everton</title>
+<desc>Premier League 2025/26: Match Week 38: Tottenham Hotspur vs. Everton, from Tottenham Hotspur Stadium.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528121000 +0800" stop="20260528131000 +0800">
+<title lang="zh">PL Review 2025/26: Week 38</title>
+<desc>Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528131000 +0800" stop="20260528152000 +0800">
+<title lang="zh">PL: Fulham vs Newcastle</title>
+<desc>Premier League 2025/26: Match Week 38: Fulham vs. Newcastle United, from Craven Cottage.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528152000 +0800" stop="20260528173000 +0800">
+<title lang="zh">PL: Burnley vs Wolves</title>
+<desc>Premier League 2025/26: Match Week 38: Burnley vs. Wolverhampton Wanderers, from Turf Moor.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528173000 +0800" stop="20260528194000 +0800">
+<title lang="zh">PL: Nottm Forest vs Bournemouth</title>
+<desc>Premier League 2025/26: Match Week 38: Nottingham Forest vs. A.F.C. Bournemouth, from The City Ground.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528194000 +0800" stop="20260528201000 +0800">
+<title lang="zh">Netbusters 2025/26: Ep38</title>
+<desc>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528201000 +0800" stop="20260528204000 +0800">
+<title lang="zh">PL Stories: The Great North London Divide</title>
+<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528204000 +0800" stop="20260528225000 +0800">
+<title lang="zh">PL: Crystal Palace vs Arsenal</title>
+<desc>Premier League 2025/26: Match Week 38: Crystal Palace vs. Arsenal, from Selhurst Park.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="397396" start="20260528225000 +0800" stop="20260529000000 +0800">
+<title lang="zh">PL: West Ham vs Leeds</title>
+<desc>Premier League 2025/26: Match Week 38: West Ham United vs. Leeds United, from London Stadium.</desc>
+<date>2026-05-28</date>
+</programme>
+</tv>
