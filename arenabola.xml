@@ -1,0 +1,147 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<tv date="20260527165038 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/4209/20260527.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=4209&date=20260527&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<channel id="4209">
+<display-name lang="Malaysia">Arena Bola</display-name>
+<icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061514055903_10.png"/>
+</channel>
+<programme channel="4209" start="20260527010000 +0800" stop="20260527030000 +0800">
+<title lang="zh">MSL 2025/26: DPMM lwn KUC</title>
+<desc>Liga Super 2025/26 perlawanan ke-135: DPMM lwn Kuching City dari Stadium Negara Hassanal Bolkiah, Berakas, Brunei.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527030000 +0800" stop="20260527050000 +0800">
+<title lang="zh">MSL 2025/26: TER lwn NSE</title>
+<desc>Liga Super 2025/26 perlawanan ke-136: Terengganu lwn Negeri Sembilan dari Stadium Sultan Mizan Zainal Abidin, Kuala Terengganu.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527050000 +0800" stop="20260527060000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527060000 +0800" stop="20260527080000 +0800">
+<title lang="zh">MSL 2025/26: NSE lwn KTRW</title>
+<desc>Liga Super 2025/26 perlawanan ke-156: Negeri Sembilan lwn Kelantan The Real Warriors FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527080000 +0800" stop="20260527100000 +0800">
+<title lang="zh">Piala Shopee 2025/26: SEL lwn NDI</title>
+<desc>Piala Shopee 2025/26: Selangor lwn Nam Dinh FC dari Stadium Majlis Perbandaran Petaling Jaya, Selangor.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527100000 +0800" stop="20260527120000 +0800">
+<title lang="zh">Piala Shopee 2025/26: NDI lwn SEL</title>
+<desc>Piala Shopee 2025/26: Nam Dinh FC lwn Selangor dari Stadium Thien Truong, Nam Dinh, Vietnam.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527120000 +0800" stop="20260527130000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527130000 +0800" stop="20260527150000 +0800">
+<title lang="zh">Piala Shopee 2025/26: JDT lwn BUR</title>
+<desc>Piala Shopee 2025/26: Johor Darul Ta'zim lwn Buriram United dari Stadium Sultan Ibrahim, Johor, Malaysia.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527150000 +0800" stop="20260527170000 +0800">
+<title lang="zh">Piala Shopee 2025/26: BUR lwn JDT</title>
+<desc>Piala Shopee 2025/26: Buriram United lwn Johor Darul Ta'zim dari Chang Arena, Buriram, Thailand.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527170000 +0800" stop="20260527190000 +0800">
+<title lang="zh">Piala Shopee 2025/26: SEL lwn BUR</title>
+<desc>Piala Shopee 2025/26: Perlawanan Akhir Pusingan Pertama: Selangor lwn Buriram United dari Stadium Majlis Perbandaran Petaling Jaya, Selangor.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527190000 +0800" stop="20260527193000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: IFC lwn NSE</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Imigresen lwn Negeri Sembilan.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527193000 +0800" stop="20260527223000 +0800">
+<title lang="zh">(L) Piala Shopee 2025/26: BUR lwn SEL</title>
+<desc>(Langsung) Piala Shopee 2025/26: Perlawanan Akhir Pusingan Kedua: Buriram United lwn Selangor dari Chang Arena, Buriram, Thailand.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527223000 +0800" stop="20260527230000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: DPMM lwn KLC</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: DPMM lwn Kuala Lumpur City.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260527230000 +0800" stop="20260528000000 +0800">
+<title lang="zh">MSL 2025/26: IFC lwn PEN</title>
+<desc>Liga Super 2025/26 perlawanan ke-128: Imigresen lwn Penang dari Stadium Tuanku Syed Putra, Kangar, Perlis.</desc>
+<date>2026-05-27</date>
+</programme>
+<programme channel="4209" start="20260528010000 +0800" stop="20260528013000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: IFC lwn NSE</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Imigresen lwn Negeri Sembilan.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528013000 +0800" stop="20260528033000 +0800">
+<title lang="zh">MSL 2025/26: KTRW lwn KLC</title>
+<desc>Liga Super 2025/26 perlawanan ke-127: Kelantan The Real Warriors FC lwn Kuala Lumpur City FC dari Stadium Sultan Muhammad ke IV, Kota Bahru, Kelantan.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528033000 +0800" stop="20260528040000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: PEN lwn KTRW</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Penang lwn Kelantan The Real Warriors FC.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528040000 +0800" stop="20260528060000 +0800">
+<title lang="zh">MSL 2025/26: JDT lwn TER</title>
+<desc>Liga Super 2025/26 perlawanan ke-129: Johor Darul Ta'zim lwn Terengganu dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528060000 +0800" stop="20260528080000 +0800">
+<title lang="zh">Piala Shopee 2025/26: BUR lwn SEL</title>
+<desc>Piala Shopee 2025/26: Perlawanan Akhir Pusingan Kedua: Buriram United lwn Selangor dari Chang Arena, Buriram, Thailand.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528080000 +0800" stop="20260528100000 +0800">
+<title lang="zh">MSL 2025/26: SEL lwn PDRM</title>
+<desc>Liga Super 2025/26 perlawanan ke-151: Selangor lwn PDRM dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528100000 +0800" stop="20260528110000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528110000 +0800" stop="20260528130000 +0800">
+<title lang="zh">MSL 2025/26: PEN lwn DPMM</title>
+<desc>Liga Super 2025/26 perlawanan ke-152: Penang lwn DPMM dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528130000 +0800" stop="20260528150000 +0800">
+<title lang="zh">MSL 2025/26: IFC lwn MEL</title>
+<desc>Liga Super 2025/26 perlawanan ke-154: Imigresen lwn Melaka dari Stadium Tuanku Syed Putra, Kangar, Perlis.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528150000 +0800" stop="20260528170000 +0800">
+<title lang="zh">Piala Shopee 2025/26: SEL lwn BUR</title>
+<desc>Piala Shopee 2025/26: Perlawanan Akhir Pusingan Pertama: Selangor lwn Buriram United dari Stadium Majlis Perbandaran Petaling Jaya, Selangor.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528170000 +0800" stop="20260528190000 +0800">
+<title lang="zh">Piala Shopee 2025/26: BUR lwn SEL</title>
+<desc>Piala Shopee 2025/26: Perlawanan Akhir Pusingan Kedua: Buriram United lwn Selangor dari Chang Arena, Buriram, Thailand.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528190000 +0800" stop="20260528210000 +0800">
+<title lang="zh">MSL 2025/26: SAB lwn TER</title>
+<desc>Liga Super 2025/26 perlawanan ke-153: Sabah lwn Terengganu dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528210000 +0800" stop="20260528230000 +0800">
+<title lang="zh">MSL 2025/26: KUC lwn KLC</title>
+<desc>Liga Super 2025/26 perlawanan ke-155: Kuching City lwn Kuala Lumpur City dari Stadium Negeri, Kuching, Sarawak.</desc>
+<date>2026-05-28</date>
+</programme>
+<programme channel="4209" start="20260528230000 +0800" stop="20260529000000 +0800">
+<title lang="zh">MSL 2025/26: NSE lwn KTRW</title>
+<desc>Liga Super 2025/26 perlawanan ke-156: Negeri Sembilan lwn Kelantan The Real Warriors FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+<date>2026-05-28</date>
+</programme>
+</tv>
