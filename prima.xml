@@ -1,447 +1,477 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260527164514 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/3158/20260527.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=3158&date=20260527&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260602190516 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/3158/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=3158&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="3158">
 <display-name lang="Malaysia">Astro Prima HD</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084741479572_69.png"/>
 </channel>
-<programme channel="3158" start="20260527000000 +0800" stop="20260527010000 +0800">
-<title lang="zh">Sepahtu Reunion Raya Gear 5 Ep02</title>
-<desc>Dato Shuib tinggal bersama Rahim, bapanya yang nyanyuk. Disebabkan sibuk dengan perniagaan, bapanya sering kesunyian.</desc>
-<date>2026-05-27</date>
+<programme channel="3158" start="20260602003000 +0800" stop="20260602010000 +0800">
+<title lang="zh">Seram Selebriti Ep01</title>
+<desc>Seram Selebriti adalah rancangan yang akan menceritakan pengalaman artis-artis Malaysia tentang alam mistik.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527010000 +0800" stop="20260527020000 +0800">
-<title lang="zh">Dendam Seorang Mentua Ep17</title>
+<programme channel="3158" start="20260602010000 +0800" stop="20260602020000 +0800">
+<title lang="zh">Dendam Seorang Mentua Ep21</title>
 <desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527020000 +0800" stop="20260527024500 +0800">
-<title lang="zh">Travelawak: Projek Bapak Bapak Ep02</title>
+<programme channel="3158" start="20260602020000 +0800" stop="20260602024500 +0800">
+<title lang="zh">Travelawak: Projek Bapak Bapak Ep06</title>
 <desc>Jom mengembara bersama geng bapak-bapak ke Jepun sambil melakukan aktiviti ekstrim yang tak pernah dilakukan sebelum ini! Saksikan mereka menangis, menjerit, dan ketakutan dalam Travelawak!</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527024500 +0800" stop="20260527030000 +0800">
-<title lang="zh">Ragam Cucu & Atuk Ep02</title>
-<desc>Sebuah sketsa pendek mengisahkan tentang seorang atuk, yang merupakan bekas askar melayan karenah cucu kesayangannya.</desc>
-<date>2026-05-27</date>
+<programme channel="3158" start="20260602024500 +0800" stop="20260602030000 +0800">
+<title lang="zh">Kisah Bawah Tanah Ep01</title>
+<desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527030000 +0800" stop="20260527034500 +0800">
-<title lang="zh">Seri Ferry Mart Ep02</title>
-<desc>Seri Ferry Mart ialah sitkom tempat kerja di sebuah pasar raya sibuk, penuh dengan gelak tawa dan situasi tidak dijangka. Saksikan Sherry Al- Hadad, Nabila Huda, Bell Ngasri & ramai lagi yang pasti mencuit hati anda.</desc>
-<date>2026-05-27</date>
+<programme channel="3158" start="20260602030000 +0800" stop="20260602032500 +0800">
+<title lang="zh">Kena Sampai Pengsan! Ep01</title>
+<desc>Saksikan selebriti-selebriti terkenal tanah air membuat kejutan kepada peminat mereka dalam situasi yang melucukan dalam Kena Sampai Pengsan.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527034500 +0800" stop="20260527040000 +0800">
-<title lang="zh">Ragam Cucu & Atuk Ep07</title>
-<desc>Sebuah sketsa pendek mengisahkan tentang seorang atuk, yang merupakan bekas askar melayan karenah cucu kesayangannya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527040000 +0800" stop="20260527054000 +0800">
-<title lang="zh">Takbir Suci 2</title>
-<desc>Nora semakin mengganas terhadap Mak Jah dan cucu-cucunya kerana kemarukkan harta dan tanah wasiat. Lakonan Raja Azura, Ako Mustapha, Fauziah Nawi dan Allahyarham M.Rajoli.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527054000 +0800" stop="20260527055500 +0800">
-<title lang="zh">Ragam Cucu & Atuk Ep12</title>
-<desc>Sebuah sketsa pendek mengisahkan tentang seorang atuk, yang merupakan bekas askar melayan karenah cucu kesayangannya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527055500 +0800" stop="20260527060000 +0800">
-<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep02</title>
+<programme channel="3158" start="20260602032500 +0800" stop="20260602033000 +0800">
+<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep32</title>
 <desc>Saksikan kompilasi terbaik persembahan peserta Muzikal Lawak Superstar 5.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527060000 +0800" stop="20260527063000 +0800">
-<title lang="zh">Opocot Melatah Raya Ep03</title>
-<desc>Makin kecoh! Makin Kelakar! bersama Dato' AC Mizal menyakat para selebriti latah kita dalam program paling viral 2020! Semuanya dalam Opocot Melatah edisi Raya!</desc>
-<date>2026-05-27</date>
+<programme channel="3158" start="20260602033000 +0800" stop="20260602042000 +0800">
+<title lang="zh">Kerana Seorang Lelaki Ep01</title>
+<desc>Kematian Richard Wong telah membongkar rahsia perkahwinannya dengan Puan Linda serta status agamanya. Malang sekali, rahsia ini menghalang cinta antara Kaseh dan Daniel yang rupanya adik-beradik.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260527063000 +0800" stop="20260527070000 +0800">
-<title lang="zh">Opera Zero Ep03</title>
-<desc>Sketsa muzikal Opera Zero, Buah tangan terbaru dari kumpulan Zero, Juara Maharaja Lawak Mega 2014. Turut bersama mereka, artis dan selebriti jemputan.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527070000 +0800" stop="20260527070500 +0800">
-<title lang="zh">MAYBANK TAKBIR RAYA AIDILADHA 2026</title>
-<desc>Takbir Raya</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527070500 +0800" stop="20260527073000 +0800">
-<title lang="zh">Sepahtu Reunion Ep03</title>
-<desc>Sepahtu bersatu dalam Sepahtu Reunion menampilkan 5 orang anggota asal yang pernah bernaung di bawah nama Sepah dan Sepahtu kali ini bergabung bersama menampilkan persembahan lawak komedi serasi yang paling ditunggu-tunggu!</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527073000 +0800" stop="20260527080000 +0800">
-<title lang="zh">Selera Rasa Seksa Ep03</title>
-<desc>Saksikan Datuk Chef Wan dalam sebuah 'game show' masakan komedi yang riuh! Pedas! Panas! Bersama selebriti terkenal tanah air.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527080000 +0800" stop="20260527081500 +0800">
-<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
-<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527081500 +0800" stop="20260527083000 +0800">
-<title lang="zh">Transit Projek Bapak Bapak S2 Ep03</title>
-<desc>Transit Projek Bapak Bapak S2</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527083000 +0800" stop="20260527090000 +0800">
-<title lang="zh">Pung Pang Rizalman S2 Ep21</title>
-<desc>Ratu Dangdut iaitu Amelina adalah tetamu selebriti yang menemani Dato Rizalman memasak di dapur beliau. Menu yang dimasak adalah Udang Goreng Kunyit dan Bubur Lemak.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527090000 +0800" stop="20260527091000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S12 Ep07</title>
-<desc>Pelbagai kisah mereka mengenali erti persahabatan, kemaafan dan hormat-menghormati. Bermula dengan cerita meneroka sebuah bilik misteri, pengalaman memancing serta keseronokan belajar menggunakan tablet.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527091000 +0800" stop="20260527092000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S12 Ep08</title>
-<desc>Pelbagai kisah mereka mengenali erti persahabatan, kemaafan dan hormat-menghormati. Bermula dengan cerita meneroka sebuah bilik misteri, pengalaman memancing serta keseronokan belajar menggunakan tablet.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527092000 +0800" stop="20260527093000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S12 Ep09</title>
-<desc>Pelbagai kisah mereka mengenali erti persahabatan, kemaafan dan hormat-menghormati. Bermula dengan cerita meneroka sebuah bilik misteri, pengalaman memancing serta keseronokan belajar menggunakan tablet.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527093000 +0800" stop="20260527094000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep10</title>
-<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527094000 +0800" stop="20260527095000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep11</title>
-<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527095000 +0800" stop="20260527100000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep12</title>
-<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527100000 +0800" stop="20260527110000 +0800">
-<title lang="zh">Dendam Seorang Mentua Ep17</title>
-<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527110000 +0800" stop="20260527120000 +0800">
-<title lang="zh">(L) Borak SeeNI S2 Ep84</title>
-<desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527120000 +0800" stop="20260527133000 +0800">
-<title lang="zh">Pung Pang Rizalman Edisi Raya 2</title>
-<desc>Dalam Pung Pang Rizalman Edisi Raya 2, Dato Rizalman dan Raja Azura bersama dengan rakan-rakan selebriti iaitu Rozita Che Wan, Dayang Nurfaizah dan Abang Gee akan menyediakan juadah Hari Raya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527133000 +0800" stop="20260527160000 +0800">
-<title lang="zh">Polis Evo</title>
-<desc>Dua anggota polis, Khai dan Sani mempunyai personaliti berbeza tetapi terpaksa mengetepikan perbezaan itu apabila mereka harus bekerjasama untuk satu misi untuk menumpaskan sindiket penyeludupan dadah.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527160000 +0800" stop="20260527170000 +0800">
-<title lang="zh">Sepahtu Reunion Kecoh Beraya Ep01</title>
-<desc>Berhibur bersama geng Sepahtu sempena Syawal ini bersama tetamu jemputan, Dato AC Mizal & Uyaina Arshad serta nantikan cameo jemputan yang pasti havoc!</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527170000 +0800" stop="20260527171000 +0800">
-<title lang="zh">Lepak@Les'Copaque Istimewa Raya Ep13</title>
-<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527171000 +0800" stop="20260527172000 +0800">
-<title lang="zh">Lepak@Les'Copaque Istimewa Raya Ep14</title>
-<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527172000 +0800" stop="20260527173000 +0800">
-<title lang="zh">Lepak@Les'Copaque Istimewa Raya Ep15</title>
-<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527173000 +0800" stop="20260527174000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep10</title>
-<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527174000 +0800" stop="20260527175000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep11</title>
-<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527175000 +0800" stop="20260527175900 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep12</title>
-<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527175900 +0800" stop="20260527180000 +0800">
-<title lang="zh">Cer Borak SeeNI S2 Ep22</title>
-<desc>Cer Borak SeeNI S2</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527180000 +0800" stop="20260527190000 +0800">
-<title lang="zh">Dendam Seorang Mentua Ep18</title>
-<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527190000 +0800" stop="20260527193000 +0800">
-<title lang="zh">Tayangan Perdana Ops : Bapak Bapak Naik Haji</title>
-<desc>Tayangan Perdana Ops : Bapak Bapak Naik Haji</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527193000 +0800" stop="20260527200000 +0800">
-<title lang="zh">Project Theme Park 2 S2 Ep03</title>
-<desc>Rancangan realiti travelog ini merakamkan percutian artis dan selebriti popular bersama peminat bertuah mereka yang terpilih untuk berlibur dan berhibur di taman-taman tema terkemuka di dunia!</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527200000 +0800" stop="20260527205900 +0800">
-<title lang="zh">Borak SeeNI S2 Ep84</title>
-<desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527205900 +0800" stop="20260527210000 +0800">
-<title lang="zh">Cer Borak SeeNI S2 Ep22</title>
-<desc>Cer Borak SeeNI S2</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527210000 +0800" stop="20260527210500 +0800">
-<title lang="zh">Berita Sangat Serius S2 Ep103</title>
-<desc>Ingin tahu tentang berita dan isu semasa yang viral dan hangat diperkatakan oleh netizen? Saksikan Berita Sangat Serius yang pasti membuat anda tertawa sambil mendapat info berguna.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527210500 +0800" stop="20260527230000 +0800">
-<title lang="zh">Antara Dua Takbir</title>
-<desc>Malam sebelum raya di rumah Balqis dan Ilham berubah menjadi misteri, apabila tetamu mula hadir tanpa izin.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260527230000 +0800" stop="20260528000000 +0800">
-<title lang="zh">Warung Sepahtu S2 Ep10</title>
-<desc>Jom lepak santai sambil sembang dan bergelak tawa bersama Jep, Rahim & Pak Ya dalam sebuah program terbaru, Warung Sepahtu selain turut menampilkan tetamu undangan yang pasti menghiburkan.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="3158" start="20260528000000 +0800" stop="20260528010000 +0800">
-<title lang="zh">Sepahtu Reunion Raya Gear 5 Ep03</title>
-<desc>Dato Shuib tinggal bersama Rahim, bapanya yang nyanyuk. Disebabkan sibuk dengan perniagaan, bapanya sering kesunyian.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528010000 +0800" stop="20260528020000 +0800">
-<title lang="zh">Dendam Seorang Mentua Ep18</title>
-<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528020000 +0800" stop="20260528024500 +0800">
-<title lang="zh">Travelawak: Projek Bapak Bapak Ep03</title>
-<desc>Jom mengembara bersama geng bapak-bapak ke Jepun sambil melakukan aktiviti ekstrim yang tak pernah dilakukan sebelum ini! Saksikan mereka menangis, menjerit, dan ketakutan dalam Travelawak!</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528024500 +0800" stop="20260528030000 +0800">
-<title lang="zh">Ragam Cucu & Atuk Ep03</title>
-<desc>Sebuah sketsa pendek mengisahkan tentang seorang atuk, yang merupakan bekas askar melayan karenah cucu kesayangannya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528030000 +0800" stop="20260528034500 +0800">
-<title lang="zh">Seri Ferry Mart Ep03</title>
-<desc>Seri Ferry Mart ialah sitkom tempat kerja di sebuah pasar raya sibuk, penuh dengan gelak tawa dan situasi tidak dijangka. Saksikan Sherry Al- Hadad, Nabila Huda, Bell Ngasri & ramai lagi yang pasti mencuit hati anda.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528034500 +0800" stop="20260528040000 +0800">
-<title lang="zh">Ragam Cucu & Atuk Ep08</title>
-<desc>Sebuah sketsa pendek mengisahkan tentang seorang atuk, yang merupakan bekas askar melayan karenah cucu kesayangannya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528040000 +0800" stop="20260528054000 +0800">
-<title lang="zh">Takbir Suci 3</title>
-<desc>Nora belajar dari kekhilafan namun tak lama kemudian, dia meroyan semula mahu mewarisi semua kekayaan. Lakonan Raja Azura, Fauziah Nawi, Norlia Ramli dan Farish Aziz.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528054000 +0800" stop="20260528055500 +0800">
-<title lang="zh">Ragam Cucu & Atuk Ep13</title>
-<desc>Sebuah sketsa pendek mengisahkan tentang seorang atuk, yang merupakan bekas askar melayan karenah cucu kesayangannya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528055500 +0800" stop="20260528060000 +0800">
-<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep03</title>
+<programme channel="3158" start="20260602042000 +0800" stop="20260602042500 +0800">
+<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep36</title>
 <desc>Saksikan kompilasi terbaik persembahan peserta Muzikal Lawak Superstar 5.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528060000 +0800" stop="20260528063000 +0800">
-<title lang="zh">Opocot Melatah Raya Ep04</title>
-<desc>Makin kecoh! Makin Kelakar! bersama Dato' AC Mizal menyakat para selebriti latah kita dalam program paling viral 2020! Semuanya dalam Opocot Melatah edisi Raya!</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602042500 +0800" stop="20260602043000 +0800">
+<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep39</title>
+<desc>Saksikan kompilasi terbaik persembahan peserta Muzikal Lawak Superstar 5.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528063000 +0800" stop="20260528070000 +0800">
-<title lang="zh">Opera Zero Ep04</title>
-<desc>Sketsa muzikal Opera Zero, Buah tangan terbaru dari kumpulan Zero, Juara Maharaja Lawak Mega 2014. Turut bersama mereka, artis dan selebriti jemputan.</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602043000 +0800" stop="20260602050000 +0800">
+<title lang="zh">Muka Buku Ep01</title>
+<desc>Muka Buku is a guessing game show, where celebrities have to guess among four contestants, who is fake and who is the Real Muka Buku</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528070000 +0800" stop="20260528073000 +0800">
-<title lang="zh">Sepahtu Reunion Ep04</title>
-<desc>Sepahtu bersatu dalam Sepahtu Reunion menampilkan 5 orang anggota asal yang pernah bernaung di bawah nama Sepah dan Sepahtu kali ini bergabung bersama menampilkan persembahan lawak komedi serasi yang paling ditunggu-tunggu!</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602050000 +0800" stop="20260602054500 +0800">
+<title lang="zh">Mr. Grey Ep01</title>
+<desc>Mr. Grey</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528073000 +0800" stop="20260528080000 +0800">
-<title lang="zh">Selera Rasa Seksa Ep04</title>
-<desc>Saksikan Datuk Chef Wan dalam sebuah 'game show' masakan komedi yang riuh! Pedas! Panas! Bersama selebriti terkenal tanah air.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528080000 +0800" stop="20260528081500 +0800">
-<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
-<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528081500 +0800" stop="20260528083000 +0800">
-<title lang="zh">Transit Projek Bapak Bapak S2 Ep04</title>
-<desc>Transit Projek Bapak Bapak S2</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528083000 +0800" stop="20260528090000 +0800">
-<title lang="zh">Pung Pang Rizalman S2 Ep22</title>
-<desc>Sambil berkongsi tips memasak dan nasihat kepada penonton, Dato Rizalman menunjukkan cara-cara untuk membuat hidangan Ayam Halia.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528090000 +0800" stop="20260528091000 +0800">
-<title lang="zh">Lepak@Les'Copaque Istimewa Raya Ep25</title>
-<desc>Dua hari sebelum lebaran, Upin dan Ipin hairan Opah tidak keluar untuk bersahur, kononnya sudah makan awal. Pagi nanti, Tok Dalang mengedarkan bungkusan dodol kepada kanak-kanak.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528091000 +0800" stop="20260528092000 +0800">
-<title lang="zh">Lepak@Les'Copaque Istimewa Raya Ep26</title>
-<desc>Dua hari sebelum lebaran, Upin dan Ipin hairan Opah tidak keluar untuk bersahur, kononnya sudah makan awal. Pagi nanti, Tok Dalang mengedarkan bungkusan dodol kepada kanak-kanak.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528092000 +0800" stop="20260528093000 +0800">
-<title lang="zh">Lepak@Les'Copaque Istimewa Raya Ep27</title>
-<desc>Dua hari sebelum lebaran, Upin dan Ipin hairan Opah tidak keluar untuk bersahur, kononnya sudah makan awal. Pagi nanti, Tok Dalang mengedarkan bungkusan dodol kepada kanak-kanak.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528093000 +0800" stop="20260528094000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S4 Ep01</title>
-<desc>Suatu kejadian telah berlaku sewaktu perjalanan pulang Aris dan Ara ke kampung. Aris menceritakan kejadian tersebut, namun ditegur oleh Aki kerana perbuatan Aris yang menyerupai perbuatan Monyet terhadap penghuni hutan. Apakah perbuatan tersebut sehingga ditegur oleh Aki?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528094000 +0800" stop="20260528095000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S4 Ep02</title>
-<desc>Suatu kejadian telah berlaku sewaktu perjalanan pulang Aris dan Ara ke kampung. Aris menceritakan kejadian tersebut, namun ditegur oleh Aki kerana perbuatan Aris yang menyerupai perbuatan Monyet terhadap penghuni hutan. Apakah perbuatan tersebut sehingga ditegur oleh Aki?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528095000 +0800" stop="20260528100000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S4 Ep03</title>
-<desc>Suatu kejadian telah berlaku sewaktu perjalanan pulang Aris dan Ara ke kampung. Aris menceritakan kejadian tersebut, namun ditegur oleh Aki kerana perbuatan Aris yang menyerupai perbuatan Monyet terhadap penghuni hutan. Apakah perbuatan tersebut sehingga ditegur oleh Aki?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528100000 +0800" stop="20260528110000 +0800">
-<title lang="zh">Dendam Seorang Mentua Ep18</title>
-<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528110000 +0800" stop="20260528120000 +0800">
-<title lang="zh">(L) Borak SeeNI S2 Ep85</title>
-<desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528120000 +0800" stop="20260528133000 +0800">
-<title lang="zh">Nak Rasa Raya</title>
-<desc>Nak Rasa Raya ialah program realiti yang menampilkan warga asing yang tinggal di Malaysia dam mengikuti perjalanan mereka ketika mereka melalui beberapa siri cabaran berkaitan kehidupan kampung.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528133000 +0800" stop="20260528153000 +0800">
-<title lang="zh">Setia Di Hujung Ingatan</title>
-<desc>Dalam kepayahan menjaga Razlan yang mengidap Alzheimer, hati Azura lakonan Fauziah Dato' Ahmad Daud patah apabila dikejutkan dengan kehadiran Rossa yang mengaku sebagai isteri kedua Razlan. Razlan yang kini di tangan jagaan Rossa bakal menerima nasib yang tragis.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528153000 +0800" stop="20260528160000 +0800">
-<title lang="zh">Tak Kot Raya Ep03</title>
-<desc>Sebuah program yang mencabar keberanian, ketakutan atau 'fobia' para selebriti itu sendiri. Pada episod ini, kita akan bersama dengan Mawar Rashid & Raf.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528160000 +0800" stop="20260528170000 +0800">
-<title lang="zh">Sepahtu Reunion Kecoh Beraya Ep02</title>
-<desc>Raya anda pasti meriah dengan lawak lucu dari Sepahtu, dan tetamu jemputan, penyanyi rock lagenda Ella.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528170000 +0800" stop="20260528171000 +0800">
-<title lang="zh">Upin & Ipin S19 Ep04</title>
-<desc>Mari saksikan Upin & Ipin Season 19</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528171000 +0800" stop="20260528172000 +0800">
-<title lang="zh">Upin & Ipin S19 Ep05</title>
-<desc>Mari saksikan Upin & Ipin Season 19</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528172000 +0800" stop="20260528173000 +0800">
-<title lang="zh">Upin & Ipin S19 Ep06</title>
-<desc>Mari saksikan Upin & Ipin Season 19</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528173000 +0800" stop="20260528174000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S4 Ep01</title>
-<desc>Suatu kejadian telah berlaku sewaktu perjalanan pulang Aris dan Ara ke kampung. Aris menceritakan kejadian tersebut, namun ditegur oleh Aki kerana perbuatan Aris yang menyerupai perbuatan Monyet terhadap penghuni hutan. Apakah perbuatan tersebut sehingga ditegur oleh Aki?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528174000 +0800" stop="20260528175000 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S4 Ep02</title>
-<desc>Suatu kejadian telah berlaku sewaktu perjalanan pulang Aris dan Ara ke kampung. Aris menceritakan kejadian tersebut, namun ditegur oleh Aki kerana perbuatan Aris yang menyerupai perbuatan Monyet terhadap penghuni hutan. Apakah perbuatan tersebut sehingga ditegur oleh Aki?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528175000 +0800" stop="20260528175900 +0800">
-<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S4 Ep03</title>
-<desc>Suatu kejadian telah berlaku sewaktu perjalanan pulang Aris dan Ara ke kampung. Aris menceritakan kejadian tersebut, namun ditegur oleh Aki kerana perbuatan Aris yang menyerupai perbuatan Monyet terhadap penghuni hutan. Apakah perbuatan tersebut sehingga ditegur oleh Aki?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528175900 +0800" stop="20260528180000 +0800">
-<title lang="zh">Cer Borak SeeNI S2 Ep22</title>
-<desc>Cer Borak SeeNI S2</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528180000 +0800" stop="20260528190000 +0800">
-<title lang="zh">Dendam Seorang Mentua Ep19</title>
-<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="3158" start="20260528190000 +0800" stop="20260528191500 +0800">
+<programme channel="3158" start="20260602054500 +0800" stop="20260602060000 +0800">
 <title lang="zh">Kisah Bawah Tanah Ep02</title>
 <desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528191500 +0800" stop="20260528193000 +0800">
-<title lang="zh">Kisah Bawah Tanah Ep05</title>
-<desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602060000 +0800" stop="20260602063000 +0800">
+<title lang="zh">Opocot Melatah Mega Ep02</title>
+<desc>Masih ingat tentang aksi latah viral pada tahun lalu, kini kami bawakan kembali selebriti yang melatah dengan lebih aksi mencuit hati.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528193000 +0800" stop="20260528200000 +0800">
-<title lang="zh">Project Theme Park 2 S2 Ep04</title>
-<desc>Rancangan realiti travelog ini merakamkan percutian artis dan selebriti popular bersama peminat bertuah mereka yang terpilih untuk berlibur dan berhibur di taman-taman tema terkemuka di dunia!</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602063000 +0800" stop="20260602070000 +0800">
+<title lang="zh">Opera Zero Ep07</title>
+<desc>Sketsa muzikal Opera Zero, Buah tangan terbaru dari kumpulan Zero, Juara Maharaja Lawak Mega 2014. Turut bersama mereka, artis dan selebriti jemputan.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528200000 +0800" stop="20260528205900 +0800">
-<title lang="zh">Borak SeeNI S2 Ep85</title>
+<programme channel="3158" start="20260602070000 +0800" stop="20260602073000 +0800">
+<title lang="zh">Sepahtu Reunion Ep07</title>
+<desc>Sepahtu bersatu dalam Sepahtu Reunion menampilkan 5 orang anggota asal yang pernah bernaung di bawah nama Sepah dan Sepahtu kali ini bergabung bersama menampilkan persembahan lawak komedi serasi yang paling ditunggu-tunggu!</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602073000 +0800" stop="20260602080000 +0800">
+<title lang="zh">Selera Rasa Seksa Ep07</title>
+<desc>Saksikan Datuk Chef Wan dalam sebuah 'game show' masakan komedi yang riuh! Pedas! Panas! Bersama selebriti terkenal tanah air.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602080000 +0800" stop="20260602081500 +0800">
+<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
+<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602081500 +0800" stop="20260602083000 +0800">
+<title lang="zh">Motif Viral Junior Ep02</title>
+<desc>Sebuah program yang merungkai perkara pelik dan viral yang terjadi di Malaysia. Kali ini, kita akan mendengar apa pandangan kanak-kanak terhadap perkara tersebut.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602083000 +0800" stop="20260602090000 +0800">
+<title lang="zh">Taste Selebriti Ep02</title>
+<desc>Rancangan travelog makanan ini memaparkan pengalaman 13 orang artis dan selebriti popular pulang ke kampung halaman masing-masing untuk berkongsi pelbagai juadah makanan tradisi yang terkenal unik.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602090000 +0800" stop="20260602091000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S10 Ep04</title>
+<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602091000 +0800" stop="20260602092000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S10 Ep05</title>
+<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602092000 +0800" stop="20260602093000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S10 Ep06</title>
+<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602093000 +0800" stop="20260602094000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S5 Ep34</title>
+<desc>Aris dan Ara seperti biasa akan tinggal di kampung bersama dengan Aki dan Wan. Aki telah merancang sesuatu yang istimewa iaitu dengan membawa mereka ke satu tempat yang istimewa.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602094000 +0800" stop="20260602095000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S5 Ep35</title>
+<desc>Aris dan Ara seperti biasa akan tinggal di kampung bersama dengan Aki dan Wan. Aki telah merancang sesuatu yang istimewa iaitu dengan membawa mereka ke satu tempat yang istimewa.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602095000 +0800" stop="20260602100000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S5 Ep36</title>
+<desc>Aris dan Ara seperti biasa akan tinggal di kampung bersama dengan Aki dan Wan. Aki telah merancang sesuatu yang istimewa iaitu dengan membawa mereka ke satu tempat yang istimewa.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602100000 +0800" stop="20260602110000 +0800">
+<title lang="zh">Dendam Seorang Mentua Ep21</title>
+<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602110000 +0800" stop="20260602120000 +0800">
+<title lang="zh">(L) Borak SeeNI S2 Ep87</title>
 <desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528205900 +0800" stop="20260528210000 +0800">
-<title lang="zh">Cer Borak SeeNI S2 Ep22</title>
+<programme channel="3158" start="20260602120000 +0800" stop="20260602140000 +0800">
+<title lang="zh">Mega Spontan Ep02</title>
+<desc>Bersama hos, Sherry Al Hadad, saksikan 4 kumpulan yang terdiri daripada 20 selebriti bakal berentap bagi merebut gelaran sang Juara!</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602140000 +0800" stop="20260602143000 +0800">
+<title lang="zh">Teroka Lokal Ep01</title>
+<desc>Dalam episod ini, Marsha menjelajah Chow Kit Road Kuala Lumpur dengan bantuan Manjeet yang banyak memberi informasi baru. Marsha juga mencuba untuk membuat Apam Balik bersama peniaga di tepi jalan.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602143000 +0800" stop="20260602163000 +0800">
+<title lang="zh">Panggung Malaya: The Berlian Job</title>
+<desc>Kisah 2 sahabat yang membuka kedai kopi namun sebenarnya mereka adalah penyiasat persendirian. Mereka mendapapat tugasan dari seorang anak Datuk untuk mencuri berlian kepunyaan ayahnya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602163000 +0800" stop="20260602170000 +0800">
+<title lang="zh">Kaunter Kaboom! Ep02</title>
+<desc>Selebriti terkenal yang melatah dibahagikan kepada tiga kumpulan dan berentap dalam permainan yang sangat kelakar serta 'mengejutkan'. Dihoskan oleh AC Mizal dan Atu Raja Lawak.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602170000 +0800" stop="20260602171000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S16 Ep03</title>
+<desc>Puasa kali ini mengisahkan Upin, Ipin dan kawan-kawan menyambut bulan ramadhan dalam keadaan normal baharu berikutkan kes covid-19 semakin meningkat. Ikuti telatah dan aksi mereka berpuasa dalam PKP.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602171000 +0800" stop="20260602172000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S16 Ep04</title>
+<desc>Raya norma baharu, satu pengalaman berbeza buat Upin, Ipin dan kawan-kawan pada tahun ini. Walaupun dalam keadaan covid-19 semakin meningkat, tidak menghalang Upin, Ipin membuat persiapan menyambut raya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602172000 +0800" stop="20260602173000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S16 Ep05</title>
+<desc>Raya norma baharu, satu pengalaman berbeza buat Upin, Ipin dan kawan-kawan pada tahun ini. Walaupun dalam keadaan covid-19 semakin meningkat, tidak menghalang Upin, Ipin membuat persiapan menyambut raya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602173000 +0800" stop="20260602174000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep25</title>
+<desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602174000 +0800" stop="20260602175000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep26</title>
+<desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602175000 +0800" stop="20260602175900 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep27</title>
+<desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602175900 +0800" stop="20260602180000 +0800">
+<title lang="zh">Cer Borak SeeNI S2 Ep23</title>
 <desc>Cer Borak SeeNI S2</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528210000 +0800" stop="20260528210500 +0800">
-<title lang="zh">Berita Sangat Serius S2 Ep104</title>
+<programme channel="3158" start="20260602180000 +0800" stop="20260602190000 +0800">
+<title lang="zh">Dendam Seorang Mentua Ep22</title>
+<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602190000 +0800" stop="20260602193000 +0800">
+<title lang="zh">Kisah Bawah Tanah Ep16</title>
+<desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602193000 +0800" stop="20260602200000 +0800">
+<title lang="zh">Project Theme Park 2 S2 Ep07</title>
+<desc>Rancangan realiti travelog ini merakamkan percutian artis dan selebriti popular bersama peminat bertuah mereka yang terpilih untuk berlibur dan berhibur di taman-taman tema terkemuka di dunia!</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602200000 +0800" stop="20260602205900 +0800">
+<title lang="zh">Borak SeeNI S2 Ep87</title>
+<desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602205900 +0800" stop="20260602210000 +0800">
+<title lang="zh">Cer Borak SeeNI S2 Ep23</title>
+<desc>Cer Borak SeeNI S2</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="3158" start="20260602210000 +0800" stop="20260602210500 +0800">
+<title lang="zh">Berita Sangat Serius S2 Ep107</title>
 <desc>Ingin tahu tentang berita dan isu semasa yang viral dan hangat diperkatakan oleh netizen? Saksikan Berita Sangat Serius yang pasti membuat anda tertawa sambil mendapat info berguna.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528210500 +0800" stop="20260528230000 +0800">
-<title lang="zh">Lembayung Jiwa</title>
-<desc>Kebencian Fareez terhadap ibunya kini bakal diduga dengan kepulangan adik kandungnya sebelum raya.</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602210500 +0800" stop="20260602233000 +0800">
+<title lang="zh">Laila Isabella</title>
+<desc>Filem ini mengisahkan tentang seorang gadis biasa, lasak dan kasar ala tomboy bernama Laila yang gemar bermain pool dan menaiki skuter. Lakonan Nasha Aziz, Rosyam Nor dan Saiful Apek.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260528230000 +0800" stop="20260529000000 +0800">
-<title lang="zh">Bocey & Friends Live Ep09</title>
-<desc>Kumpulan pelawak popular, Bocey kembali beraksi dengan sketsa komedi yang menarik. Nantikan siapakah tetamu istimewa yang akan beraksi bersama mereka.</desc>
-<date>2026-05-28</date>
+<programme channel="3158" start="20260602233000 +0800" stop="20260603000000 +0800">
+<title lang="zh">Meja Bulat Sepahtu Ep02</title>
+<desc>Rancangan bual bicara santai bersama Kumpulan Sepahtu dengan pelbagai topik pilihan yang menarik menampilkan ramai artis dan selebriti popular dalam setiap episod.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="3158" start="20260529000000 +0800" stop="20260530000000 +0800">
-<title lang="zh">Sepahtu Reunion Raya Gear 5 Ep04</title>
-<desc>Dato Shuib tinggal bersama Rahim, bapanya yang nyanyuk. Disebabkan sibuk dengan perniagaan, bapanya sering kesunyian.</desc>
-<date>2026-05-29</date>
+<programme channel="3158" start="20260603003000 +0800" stop="20260603010000 +0800">
+<title lang="zh">Seram Selebriti Ep02</title>
+<desc>Seram Selebriti adalah rancangan yang akan menceritakan pengalaman artis-artis Malaysia tentang alam mistik.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603010000 +0800" stop="20260603020000 +0800">
+<title lang="zh">Dendam Seorang Mentua Ep22</title>
+<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603020000 +0800" stop="20260603024500 +0800">
+<title lang="zh">Travelawak: Projek Bapak Bapak Ep07</title>
+<desc>Jom mengembara bersama geng bapak-bapak ke Jepun sambil melakukan aktiviti ekstrim yang tak pernah dilakukan sebelum ini! Saksikan mereka menangis, menjerit, dan ketakutan dalam Travelawak!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603024500 +0800" stop="20260603030000 +0800">
+<title lang="zh">Kisah Bawah Tanah Ep02</title>
+<desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603030000 +0800" stop="20260603032500 +0800">
+<title lang="zh">Kena Sampai Pengsan! Ep02</title>
+<desc>Saksikan selebriti-selebriti terkenal tanah air membuat kejutan kepada peminat mereka dalam situasi yang melucukan dalam Kena Sampai Pengsan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603032500 +0800" stop="20260603033000 +0800">
+<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep33</title>
+<desc>Saksikan kompilasi terbaik persembahan peserta Muzikal Lawak Superstar 5.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603033000 +0800" stop="20260603042000 +0800">
+<title lang="zh">Kerana Seorang Lelaki Ep02</title>
+<desc>Puan Linda telah mengisytihar perang dengan keluarga Madam Clarissa. Sementara itu, Amar cuba untuk memenangi hati Kaseh yang remuk dirempuh berita tentang hubungannya dengan Daniel.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603042000 +0800" stop="20260603042500 +0800">
+<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep37</title>
+<desc>Saksikan kompilasi terbaik persembahan peserta Muzikal Lawak Superstar 5.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603042500 +0800" stop="20260603043000 +0800">
+<title lang="zh">Highlight Muzikal Lawak Superstar 5 Ep40</title>
+<desc>Saksikan kompilasi terbaik persembahan peserta Muzikal Lawak Superstar 5.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603043000 +0800" stop="20260603050000 +0800">
+<title lang="zh">Muka Buku Ep02</title>
+<desc>Muka Buku is a guessing game show, where celebrities have to guess among four contestants, who is fake and who is the Real Muka Buku</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603050000 +0800" stop="20260603054500 +0800">
+<title lang="zh">Mr. Grey Ep02</title>
+<desc>Mr. Grey</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603054500 +0800" stop="20260603060000 +0800">
+<title lang="zh">Kisah Bawah Tanah Ep03</title>
+<desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603060000 +0800" stop="20260603063000 +0800">
+<title lang="zh">Opocot Melatah Mega Ep03</title>
+<desc>Masih ingat tentang aksi latah viral pada tahun lalu, kini kami bawakan kembali selebriti yang melatah dengan lebih aksi mencuit hati.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603063000 +0800" stop="20260603070000 +0800">
+<title lang="zh">Opera Zero Ep08</title>
+<desc>Sketsa muzikal Opera Zero, Buah tangan terbaru dari kumpulan Zero, Juara Maharaja Lawak Mega 2014. Turut bersama mereka, artis dan selebriti jemputan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603070000 +0800" stop="20260603073000 +0800">
+<title lang="zh">Sepahtu Reunion Ep08</title>
+<desc>Sepahtu bersatu dalam Sepahtu Reunion menampilkan 5 orang anggota asal yang pernah bernaung di bawah nama Sepah dan Sepahtu kali ini bergabung bersama menampilkan persembahan lawak komedi serasi yang paling ditunggu-tunggu!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603073000 +0800" stop="20260603080000 +0800">
+<title lang="zh">Selera Rasa Seksa Ep08</title>
+<desc>Saksikan Datuk Chef Wan dalam sebuah 'game show' masakan komedi yang riuh! Pedas! Panas! Bersama selebriti terkenal tanah air.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603080000 +0800" stop="20260603081500 +0800">
+<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
+<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603081500 +0800" stop="20260603083000 +0800">
+<title lang="zh">Motif Viral Junior Ep03</title>
+<desc>Sebuah program yang merungkai perkara pelik dan viral yang terjadi di Malaysia. Kali ini, kita akan mendengar apa pandangan kanak-kanak terhadap perkara tersebut.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603083000 +0800" stop="20260603090000 +0800">
+<title lang="zh">Taste Selebriti Ep03</title>
+<desc>Rancangan travelog makanan ini memaparkan pengalaman 13 orang artis dan selebriti popular pulang ke kampung halaman masing-masing untuk berkongsi pelbagai juadah makanan tradisi yang terkenal unik.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603090000 +0800" stop="20260603091000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S10 Ep07</title>
+<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603091000 +0800" stop="20260603092000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S10 Ep08</title>
+<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603092000 +0800" stop="20260603093000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S10 Ep09</title>
+<desc>Pelbagai kisah Upin & Ipin bersama rakan-rakan mereka dalam mengenali erti persahabatan, kemaafan dan hormat-menghormati.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603093000 +0800" stop="20260603094000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep01</title>
+<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603094000 +0800" stop="20260603095000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep02</title>
+<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603095000 +0800" stop="20260603100000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu Ep03</title>
+<desc>Aris dan Ara pindah ke kampung dan diceritakan kisah terlupa 'Sang Kancil' oleh datuk mereka Aki.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603100000 +0800" stop="20260603110000 +0800">
+<title lang="zh">Dendam Seorang Mentua Ep22</title>
+<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603110000 +0800" stop="20260603120000 +0800">
+<title lang="zh">(L) Borak SeeNI S2 Ep88</title>
+<desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603120000 +0800" stop="20260603140000 +0800">
+<title lang="zh">Mega Spontan Ep03</title>
+<desc>Bersama hos, Sherry Al Hadad, saksikan 4 kumpulan yang terdiri daripada 20 selebriti bakal berentap bagi merebut gelaran sang Juara!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603140000 +0800" stop="20260603143000 +0800">
+<title lang="zh">Teroka Lokal Ep02</title>
+<desc>Pengembaraan solo Marsha bermula di Kudu Nasi Kandar Kuala Lumpur sambil mengenang nostalgia pada zaman Tan Sri P.Ramlee. Marsha mencuba makanan di Lontong King dan menginap di Rumah Kebun Camping Ground.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603143000 +0800" stop="20260603163000 +0800">
+<title lang="zh">Gadis Kosmos</title>
+<desc>Trilogi Kekasih Elektrik dan Aku, Mawar & Makhluk Asing di mana Bart dan Amri kini di fasa perpisahan dengan pasangan mereka. Fenomena aneh berlaku di mana seorang wanita cantik muncul mengisi hati mereka</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603163000 +0800" stop="20260603170000 +0800">
+<title lang="zh">Kaunter Kaboom! Ep03</title>
+<desc>Selebriti terkenal yang melatah dibahagikan kepada tiga kumpulan dan berentap dalam permainan yang sangat kelakar serta 'mengejutkan'. Dihoskan oleh AC Mizal dan Atu Raja Lawak.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603170000 +0800" stop="20260603171000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S16 Ep07</title>
+<desc>Mimpi boleh menjadi perkara paling indah atau ngeri yang dilalui ketika tidur. Selepas mendengar cerita Kak Ros yang bermimpi tentang ibu dan ayah mereka, Upin dan Ipin juga ingin bermimpikan yang sama.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603171000 +0800" stop="20260603172000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S16 Ep08</title>
+<desc>Mimpi boleh menjadi perkara paling indah atau ngeri yang dilalui ketika tidur. Selepas mendengar cerita Kak Ros yang bermimpi tentang ibu dan ayah mereka, Upin dan Ipin juga ingin bermimpikan yang sama.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603172000 +0800" stop="20260603173000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Upin & Ipin S16 Ep09</title>
+<desc>Mimpi boleh menjadi perkara paling indah atau ngeri yang dilalui ketika tidur. Selepas mendengar cerita Kak Ros yang bermimpi tentang ibu dan ayah mereka, Upin dan Ipin juga ingin bermimpikan yang sama.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603173000 +0800" stop="20260603174000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep28</title>
+<desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603174000 +0800" stop="20260603175000 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep29</title>
+<desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603175000 +0800" stop="20260603175900 +0800">
+<title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep30</title>
+<desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603175900 +0800" stop="20260603180000 +0800">
+<title lang="zh">Cer Borak SeeNI S2 Ep23</title>
+<desc>Cer Borak SeeNI S2</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603180000 +0800" stop="20260603190000 +0800">
+<title lang="zh">Dendam Seorang Mentua Ep23</title>
+<desc>Kerana pengkhianatan ke atas cinta yang membawanya ke penjara, Sofia menuntut dendam dan kembali sebagai mentua kepada mantan kekasihnya.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603190000 +0800" stop="20260603193000 +0800">
+<title lang="zh">Komediri With Douglas Lim (HD) Ep01</title>
+<desc>Stand Up comedy show hosted by the one and only Douglas Lim featuring 3 acts per episode.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603193000 +0800" stop="20260603200000 +0800">
+<title lang="zh">Project Theme Park 2 S2 Ep08</title>
+<desc>Rancangan realiti travelog ini merakamkan percutian artis dan selebriti popular bersama peminat bertuah mereka yang terpilih untuk berlibur dan berhibur di taman-taman tema terkemuka di dunia!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603200000 +0800" stop="20260603205900 +0800">
+<title lang="zh">Borak SeeNI S2 Ep88</title>
+<desc>Sebuah program bual bicara yang mengetengahkan individu yang memberikan inspirasi kejayaan daripada pelbagai bidang, membincangkan topik tular dan memperkenalkan PKS yang ingin menonjolkan produk mereka.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603205900 +0800" stop="20260603210000 +0800">
+<title lang="zh">Cer Borak SeeNI S2 Ep23</title>
+<desc>Cer Borak SeeNI S2</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603210000 +0800" stop="20260603210500 +0800">
+<title lang="zh">Berita Sangat Serius S2 Ep108</title>
+<desc>Ingin tahu tentang berita dan isu semasa yang viral dan hangat diperkatakan oleh netizen? Saksikan Berita Sangat Serius yang pasti membuat anda tertawa sambil mendapat info berguna.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603210500 +0800" stop="20260603220000 +0800">
+<title lang="zh">Travelawak: Projek Bapak Bapak S4 Ep01</title>
+<desc>Musim baru, dengar kata ada bapak baru? Jom jalan-jalan di Hong Kong, diikuti oleh keindahan bersalji Slovenia, dan akhirnya, keunikan budaya Romania Bersama geng bapak bapak.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603220000 +0800" stop="20260603230000 +0800">
+<title lang="zh">Buka Kedai : Now In Tokyo Ep01</title>
+<desc>Bersama Nabila Huda, Shashic, Leona & Eric Lay, saksikan selebriti Malaysia menjelajah Jepun sambil ditugaskan untuk membuka gerai makan di Tokyo! Berjayakah mereka menjual makanan Malaysia di sana?</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260603230000 +0800" stop="20260604000000 +0800">
+<title lang="zh">Meja Bulat Sepahtu Ep03</title>
+<desc>Rancangan bual bicara santai bersama Kumpulan Sepahtu dengan pelbagai topik pilihan yang menarik menampilkan ramai artis dan selebriti popular dalam setiap episod.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="3158" start="20260604000000 +0800" stop="20260605000000 +0800">
+<title lang="zh">MLM Terbaik 2014 Ep03</title>
+<desc>Klip-klip terbaik sepanjang Maharaja Lawak Mega 2014 bersama Zero, Sepahtu, Nabil, Shiro dan Bocey</desc>
+<date>2026-06-04</date>
 </programme>
 </tv>
