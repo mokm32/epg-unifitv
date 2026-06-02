@@ -1,147 +1,182 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260527164931 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/2937/20260527.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=2937&date=20260527&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260602190942 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/2937/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=2937&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="2937">
 <display-name lang="Malaysia">Astro Citra HD</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png"/>
 </channel>
-<programme channel="2937" start="20260527011000 +0800" stop="20260527025000 +0800">
-<title lang="zh">Mama Mama Mia</title>
-<desc>Kisah kehidupan 3 orang gadis serumah yang mula berubah setelah mereka menemui seorang bayi yang dibuang orang. Lakonan Lisa Surihani, Hanis Zalikha dan Mynn Lee.</desc>
-<date>2026-05-27</date>
+<programme channel="2937" start="20260602010000 +0800" stop="20260602011500 +0800">
+<title lang="zh">The Shoemaker</title>
+<desc>Set in Marikina, the shoe capital of the Philippines, an ageing lady shoemaker gets a visit from her first love, who abandoned her 3 decades ago. Will healed wounds be</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260527025000 +0800" stop="20260527042000 +0800">
-<title lang="zh">Dream Man</title>
-<desc>Sekumpulan lima rakan mula mengalami peristiwa ngeri sejak akaun Facebook misteri menghantar permintaan untuk menjadi rakan kepada mereka.</desc>
-<date>2026-05-27</date>
+<programme channel="2937" start="20260602011500 +0800" stop="20260602012000 +0800">
+<title lang="zh">Sesaat Lebih - Trailer</title>
+<desc>Mengisahkan Adelia, seorang wanita berkerjaya yang kehilangan suami secara mengejut, lalu berusaha sembuh bersama anaknya dan sahabat baik arwah, menemui makna cinta dan peluang kedua dalam hidup hari ini.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260527042000 +0800" stop="20260527060000 +0800">
-<title lang="zh">M4M4</title>
-<desc>Aini, ibu yang sedang bersedih ingin membalas dendam terhadap mereka yang selalu menimbulkan kekacauan di kejiranannya menyebabkan kematian anaknya yang berumur 15 tahun.</desc>
-<date>2026-05-27</date>
+<programme channel="2937" start="20260602012000 +0800" stop="20260602025500 +0800">
+<title lang="zh">You Mean The World To Me</title>
+<desc>unny, pembuat filem pulang ke kampungnya untuk membuat filem mengenai keluarganya. Berdepan masalah kewangan, dia bersemuka dengan kebenaran tentang keluarganya dan belajar menerima peristiwa lampau.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260527060000 +0800" stop="20260527080000 +0800">
-<title lang="zh">Ibu Belum Mati</title>
-<desc>Saiful, budak lelaki berusia 9 tahun menyembunyikan rahsia besar di mana ibunya telah pun meninggal dunia di dalam bilik selama sebulan.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527080000 +0800" stop="20260527100000 +0800">
-<title lang="zh">Pisau Cukur</title>
-<desc>Apa jadi bila mangsa dan pemangsa terperangkap di kapal mewah? Bella & Intan bertembung 3 Datuk, isteri, anak, seorang detektif dan peminat tegar Bella. Siapa mangsa, siapa pemangsa?</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527100000 +0800" stop="20260527123000 +0800">
-<title lang="zh">Top Gun: Maverick</title>
-<desc>The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527123000 +0800" stop="20260527143000 +0800">
-<title lang="zh">10 Tips Tipu Bini</title>
-<desc>Apabila 3 pengarah kreatif di syarikat pengiklanan cuba memikat 3 gadis intern yang bekerja di syarikat mereka untuk dijadikan kekasih, mereka terpaksa menipu isteri mereka untuk melaksanakan niat mereka.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527143000 +0800" stop="20260527163000 +0800">
-<title lang="zh">Suara Kekasih (HD)</title>
-<desc>Kisah percintaan terhalang dan terlarang di antara seorang artis dengan seorang pemuda dari keluarga berada. Lakonan Fauziah Ahmad Daud, Azmil Mustapha, Norlida Ahmad (Connie) dan Datin Rosnani Jamil.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527163000 +0800" stop="20260527173000 +0800">
-<title lang="zh">Walid Ep01</title>
-<desc>Ditahan kerana ajaran sesat, Walid meloloskan diri dari serang hendap ganas. Saat pengikut ditangkap dan disoal, kesetiaan retak—dan pelindung misteri muncul dari bayang.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527173000 +0800" stop="20260527174500 +0800">
-<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
-<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527174500 +0800" stop="20260527200000 +0800">
-<title lang="zh">Maria Mariana</title>
-<desc>Maria dan Mariana dua adik beradik yang mempunyai perwatakan berbeza berdepan dengan konflik kehidupan dan percintaaan. Lakonan Erra Fazira dan Ziana Zain</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527200000 +0800" stop="20260527220000 +0800">
-<title lang="zh">Bikers Kental</title>
-<desc>Kisah Bidin Al Zaifa dan abang sepupunya Aidil Al Zaifa yang berkonvoi bersama geng motosikal Eddie Cuardo ke Thailand yang penuh dengan pelbagai kisah, tragedi dan konflik di antara Bidin, Eddie dan Saiya Sukhaporn serta Cherry Porntit.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527220000 +0800" stop="20260527230000 +0800">
-<title lang="zh">Walid Ep02</title>
-<desc>Walid terjerat pakatan dengan Habiburrahman yang berkarisma. Saat cita-cita memuncak di pergunungan, Ummi bangkit menuntut semula Jihad Ummah—walau terpaksa menjadi apa yang dulu ditentangnya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260527230000 +0800" stop="20260528000000 +0800">
-<title lang="zh">Cikgu Timah Sekolah Bandar</title>
-<desc>Kisah cikgu Timah yang sudah berkahwin dengan Imran dan berhijrah kembali ke Bandar. Cikgu Timah yang hamil mengalami alahan yang teruk. Pelbagai konflik telah berlaku dalam rumah tangga cikgu Timah. Haziq anak tirinya berusaha untuk memulihkan hubungan cikgu Timah serta ayahnya Imran.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2937" start="20260528010000 +0800" stop="20260528023500 +0800">
-<title lang="zh">Istanbul Aku Datang</title>
-<desc>Dian yang menyewa sebuah apartment di Istanbul ditipu oleh anak pemilik apartment itu dan bertemu Harris yang juga tinggal di situ. Dapatkah Dian menghalau Harris dari apartment itu?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528023500 +0800" stop="20260528041500 +0800">
-<title lang="zh">Amulet</title>
-<desc>An ex-soldier, living homeless in London, is offered a place to stay at a decaying house inhabited by a young woman and her dying mother. As he starts to fall for her, he cannot ignore his suspicion that something sinister is going on.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528041500 +0800" stop="20260528042000 +0800">
+<programme channel="2937" start="20260602025500 +0800" stop="20260602030000 +0800">
 <title lang="zh">Walid - Trailer</title>
 <desc>Walid, tokoh berpengaruh yang disanjung, di sebalik wajah menyimpan rahsia. Apabila kebenaran terbongkar, kepercayaan hancur dan kuasa mula runtuh. Siapakah Walid sebenarnya?</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260528042000 +0800" stop="20260528060000 +0800">
-<title lang="zh">Pisau Cukur</title>
-<desc>Apa jadi bila mangsa dan pemangsa terperangkap di kapal mewah? Bella & Intan bertembung 3 Datuk, isteri, anak, seorang detektif dan peminat tegar Bella. Siapa mangsa, siapa pemangsa?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528060000 +0800" stop="20260528081500 +0800">
-<title lang="zh">Cun</title>
-<desc>Kisah Luna seorang pengacara TV popular membawa diri ke sebuah kampung lalu bertemu seorang pemuda kampung bernama Atan lalu jatuh cinta. Lakonan Remy Ishak, Maya Karin, Faezah Elai, Nadiya Nisaa dan Ning Baizura.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528081500 +0800" stop="20260528100000 +0800">
-<title lang="zh">Mat Tudung</title>
-<desc>Seorang buaya darat yang jatuh cinta dengan seorang wanita cantik yang berhijab merancang untuk menarik perhatiannya dengan menyamar. Namun, percubaannya menyebabkan kekecohan yang tidak dijangka!</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528100000 +0800" stop="20260528120000 +0800">
-<title lang="zh">Top Gun (OD FREE_PARAMOUNT)</title>
-<desc>The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When Maverick is sent to the school, his reckless attitude put him at odds with the other pilots, especially the cool Iceman.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528120000 +0800" stop="20260528134500 +0800">
+<programme channel="2937" start="20260602030000 +0800" stop="20260602043500 +0800">
 <title lang="zh">Harry Boy</title>
 <desc>Pergolakan rumahtangga kedua-dua ibu bapanya telah menyebabkan Harry Boy, seorang pelajar kolej menjadi seorang remaja liar. Sikap liarnya mula berubah setelah mengenali Haryati.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260528134500 +0800" stop="20260528154500 +0800">
+<programme channel="2937" start="20260602043500 +0800" stop="20260602060000 +0800">
+<title lang="zh">Senario The Movie Episode 1</title>
+<desc>Saksikan pengembaraan Wahid, Mazlan dan Azlee dalam mencapai cita-cita mereka menjadi bintang sehinggakan mereka disangka perompak yang menjadi buruan polis.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602060000 +0800" stop="20260602074500 +0800">
+<title lang="zh">Senario The Movie Episod 2 Beach Boys</title>
+<desc>The Beach Boys - Azlee, Mazlan dan Wahid kembali untuk menyempurnakan misi mereka menyelamatkan sebuah resort yang hampir ditutup.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602074500 +0800" stop="20260602100000 +0800">
+<title lang="zh">Cinta</title>
+<desc>Lima cerita yang mengisahkan tentang cinta dari perspektif berbeza. Lakonan Sharifah Amani, Pierre Andre, Fasha Sandha, Eizlan Yusof, Rita Rudaini dan ramai lagi.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602100000 +0800" stop="20260602112000 +0800">
+<title lang="zh">Chikaro</title>
+<desc>Seorang gadis kampung yang naif menjadi lebih matang dengan pertolongan seorang bekas 'Mat Rempit.' Lakonan Izzue Islam.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602112000 +0800" stop="20260602133500 +0800">
+<title lang="zh">Maria Mariana</title>
+<desc>Maria dan Mariana dua adik beradik yang mempunyai perwatakan berbeza berdepan dengan konflik kehidupan dan percintaaan. Lakonan Erra Fazira dan Ziana Zain</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602133500 +0800" stop="20260602140000 +0800">
+<title lang="zh">The Making of The Furious</title>
+<desc>Apabila YouTuber Danial menghina nama arwah bapa mereka, Firdaus dan Hakim bersatu semula. Seorang mencari penebusan, seorang lagi menuntut balas dendam dalam pertempuran yang menentukan nasib legasi The Furious.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602140000 +0800" stop="20260602144500 +0800">
+<title lang="zh">Walid Ep02</title>
+<desc>Walid terjerat pakatan dengan Habiburrahman yang berkarisma. Saat cita-cita memuncak di pergunungan, Ummi bangkit menuntut semula Jihad Ummah—walau terpaksa menjadi apa yang dulu ditentangnya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602144500 +0800" stop="20260602161500 +0800">
+<title lang="zh">Satu Malam Perawan</title>
+<desc>Aisyah dan adiknya, Mira telah diculik dan dijual kepada Mummy Nora. Di situ, kehidupan Aisyah berubah dan menderita. Apakah kesudahan nasib Aisyah? Lakonan Diana Danielle, Erin Malek, Wan Nur Azlin dan Sheila Rusly.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602161500 +0800" stop="20260602180000 +0800">
+<title lang="zh">Karya 12 Vol 2: Pentas Haiwan</title>
+<desc>Kisah seorang guru yang menjadi guru sementara untuk mengajar kanak-kanak kelas lemah menghadapi cabaran daripada orang sekeliling dan juga pengetuanya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602180000 +0800" stop="20260602200000 +0800">
 <title lang="zh">Mama Mama Mia</title>
 <desc>Kisah kehidupan 3 orang gadis serumah yang mula berubah setelah mereka menemui seorang bayi yang dibuang orang. Lakonan Lisa Surihani, Hanis Zalikha dan Mynn Lee.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260528154500 +0800" stop="20260528174500 +0800">
-<title lang="zh">Fathers & Daughters</title>
-<desc>Seorang penulis bergelar bapa tunggal cuba bangkit semula dan cuba merebut hak penjagaan ke atas anaknya selepas dia mengalami episod gangguan mental akibat kemalangan tragis.</desc>
-<date>2026-05-28</date>
+<programme channel="2937" start="20260602200000 +0800" stop="20260602214000 +0800">
+<title lang="zh">Chomel</title>
+<desc>Setelah kematian ibunya, keluarga Mimi berantakan. Satu hari, Mimi terjumpa seekor kucing, Chomel dan membawanya pulang. Kehadiran Chomel menyebabkan berlaku peristiwa yang menyatukan keluarganya semula.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260528174500 +0800" stop="20260528194500 +0800">
-<title lang="zh">Kampung Latah Kena Kuarantin</title>
-<desc>Ajin adalah pekerja di syarikat pelancongan di Kampung Latah Permai. Gelagatnya menghiburkan penduduk kampung dan pelancong. Satu hari, kampung itu dilanda sindrom 'melatah' dan menjadi tidak terkawal.</desc>
-<date>2026-05-28</date>
+<programme channel="2937" start="20260602214000 +0800" stop="20260602220000 +0800">
+<title lang="zh">5 Minit</title>
+<desc>A young father, who had his daughter out of wedlock, relives his misspent youth while waiting the infinite 5 minutes to find out whether his own teenage, unmarried daughter is now pregnant.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260528194500 +0800" stop="20260528220000 +0800">
-<title lang="zh">Sembilu</title>
-<desc>Percintaan Wati dan Awie mendapat tentangan hebat oleh keluarga Wati. Muncul pula Ziana sebagai orang ketiga.Lakonan Erra Fazira dan Awie.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2937" start="20260528220000 +0800" stop="20260528224500 +0800">
+<programme channel="2937" start="20260602220000 +0800" stop="20260602224500 +0800">
 <title lang="zh">Walid Ep03</title>
 <desc>Walid semakin selesa di perlindungan baharu, namun tegang dengan Habiburrahman dalam perebutan kuasa. Di Jihad Ummah, Ummi berhati-hati mengukuh kedudukan—satu silap boleh menjatuhkan segalanya.</desc>
-<date>2026-05-28</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2937" start="20260528224500 +0800" stop="20260529000000 +0800">
-<title lang="zh">10 Tips Tipu Bini</title>
-<desc>Apabila 3 pengarah kreatif di syarikat pengiklanan cuba memikat 3 gadis intern yang bekerja di syarikat mereka untuk dijadikan kekasih, mereka terpaksa menipu isteri mereka untuk melaksanakan niat mereka.</desc>
-<date>2026-05-28</date>
+<programme channel="2937" start="20260602224500 +0800" stop="20260602230000 +0800">
+<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
+<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260602230000 +0800" stop="20260603000000 +0800">
+<title lang="zh">Cikgu Gangster</title>
+<desc>Seorang gangster tersesat dalam hutan lalu menyelinap ke dalam sebuah kem motivasi dan meyamar sebagai guru sementara yang bertugas memantau pelajar nakal. Lakonan Syed Ali, Siti Saleha, Zaidi Omar, Hafiz Zaki</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2937" start="20260603010000 +0800" stop="20260603023000 +0800">
+<title lang="zh">Karya 12 Vol 2: Sekolah Api</title>
+<desc>Api, gangster yang meningkat naik cuba memenuhi amanat arwah neneknya untuk menghabiskan SPM. Dia jatuh cinta dengan guru Bahasa Inggeris dan sanggup melakukan apa saja untuk memenangi hati guru tersebut.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603023000 +0800" stop="20260603042000 +0800">
+<title lang="zh">Bulan & Pria Terhebat</title>
+<desc>Bulan, seorang pelatih dalam pasukan khas Indonesia, memulai perjalanannya di sebuah sindiket pemerdagangan manusia untuk mencari saudara perempuannya yang diculik, Melati.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603042000 +0800" stop="20260603042500 +0800">
+<title lang="zh">Walid - Trailer</title>
+<desc>Walid, tokoh berpengaruh yang disanjung, di sebalik wajah menyimpan rahsia. Apabila kebenaran terbongkar, kepercayaan hancur dan kuasa mula runtuh. Siapakah Walid sebenarnya?</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603042500 +0800" stop="20260603060000 +0800">
+<title lang="zh">Harry Boy</title>
+<desc>Pergolakan rumahtangga kedua-dua ibu bapanya telah menyebabkan Harry Boy, seorang pelajar kolej menjadi seorang remaja liar. Sikap liarnya mula berubah setelah mengenali Haryati.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603060000 +0800" stop="20260603074500 +0800">
+<title lang="zh">Senario The Movie Episode 1</title>
+<desc>Saksikan pengembaraan Wahid, Mazlan dan Azlee dalam mencapai cita-cita mereka menjadi bintang sehinggakan mereka disangka perompak yang menjadi buruan polis.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603074500 +0800" stop="20260603100000 +0800">
+<title lang="zh">Adiwira Ku</title>
+<desc>Berdasarkan dari kisah benar mengenai pasukan 'choral speaking' SMK Pinang Tunggal di Kedah yang mengharungi pelbagai kepayahan dan cabaran demi untuk memenangi pertandingan tersebut.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603100000 +0800" stop="20260603114500 +0800">
+<title lang="zh">Lembut Bukan Lelaki (HD)</title>
+<desc>Kisah seorang gadis bernama Lembut yang terpaksa berkorban menggugurkan cita-citanya dan menjadi nelayan demi keluarganya yang hidup dilanda kemiskinan. Dibintangi oleh Sharifah Amani, Namron dan Aliza Shadan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603114500 +0800" stop="20260603140000 +0800">
+<title lang="zh">Sembilu</title>
+<desc>Percintaan Wati dan Awie mendapat tentangan hebat oleh keluarga Wati. Muncul pula Ziana sebagai orang ketiga.Lakonan Erra Fazira dan Awie.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603140000 +0800" stop="20260603154500 +0800">
+<title lang="zh">Ma I Love You</title>
+<desc>Seorang ibu tunggal membongkar rahsia anaknya yang ingin melanjutkan pelajaran ke luar negara agar terlepas dari cengkaman ibunya yang keterlaluan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603154500 +0800" stop="20260603174500 +0800">
+<title lang="zh">Anak Emak</title>
+<desc>Kisah seorang ibu tua yang semakin dimamah usia terpaksa pula menumpang dengan anaknya yang baru sahaja bercerai. Dibintangi oleh pasangan ibu dan anak iaitu Seniwati Mariani Ismail dan Melissa Saila.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603174500 +0800" stop="20260603200000 +0800">
+<title lang="zh">Ali Setan 2</title>
+<desc>Jeff bertindak menghalang perkahwinan Ali dan Asmidar dengan memfitnah Ali kepada ayah Asmidar. Lakonan Azmil Mustapha, Shasha dan Allahyarham Izi Yahya.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603200000 +0800" stop="20260603214500 +0800">
+<title lang="zh">Citra Exclusive: Penjara Abah</title>
+<desc>Natasha merupakan seorang kanak-kanak pintar namun dinafikan hak belajar oleh ayahnya. Dengan bantuan Cikgu Atok, Natasha berjaya bersekolah namun ada harga yang harus dibayar.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603214500 +0800" stop="20260603221500 +0800">
+<title lang="zh">The Making of The Furious</title>
+<desc>Apabila YouTuber Danial menghina nama arwah bapa mereka, Firdaus dan Hakim bersatu semula. Seorang mencari penebusan, seorang lagi menuntut balas dendam dalam pertempuran yang menentukan nasib legasi The Furious.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603221500 +0800" stop="20260603230000 +0800">
+<title lang="zh">Walid Ep04</title>
+<desc>Ummi Hafizah mengaku "Nabi Perempuan" dan memimpin ritual kontroversi. Saat Habiburrahman merancang rampasan kuasa, undang-undang mula mencengkam ahli atasan Walid yang ditahan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2937" start="20260603230000 +0800" stop="20260604000000 +0800">
+<title lang="zh">Dream Palace</title>
+<desc>Kisah Hyejung, yang mula memprotes untuk melindungi apartmen yang dibelinya.</desc>
+<date>2026-06-03</date>
 </programme>
 </tv>
