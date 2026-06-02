@@ -1,282 +1,337 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260527164222 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/2384/20260527.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=2384&date=20260527&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260602190349 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/2384/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=2384&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="2384">
 <display-name lang="Malaysia">Astro Ria HD</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081051791435_30.png"/>
 </channel>
-<programme channel="2384" start="20260527010000 +0800" stop="20260527010500 +0800">
-<title lang="zh">Gempak Most Wanted Bytes 2026 Ep52</title>
-<desc>Saksikan Gempak Most Wanted setiap Rabu jam 11 malam di Astro Ria.</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602000000 +0800" stop="20260602020000 +0800">
+<title lang="zh">Kasyaf Gelang Iblis</title>
+<desc>Siti seorang jururawat yang kehilangan deria penglihatan selepas terlibat dalam kemalangan. Sesuatu yang luar biasa telah terjadi ke atas Siti selepas kejadian tersebut.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527010500 +0800" stop="20260527024100 +0800">
-<title lang="zh">Nostalgila</title>
-<desc>Tiga insan yang asing mengembara merentasi tanahair untuk balik kampung mengalami saat-saat pahit manis.</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602020000 +0800" stop="20260602023000 +0800">
+<title lang="zh">The Maid Ep01</title>
+<desc>Mengisahkan Suhana, Nadia, Fika dan Elisa yang merupakan isteri kepada seorang jutawan terkenal, Jay. Hubungan keempat-empat isteri ini pada luarannya nampak baik tetapi sebenarnya mereka sering bermusuhan</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527024100 +0800" stop="20260527030000 +0800">
+<programme channel="2384" start="20260602023000 +0800" stop="20260602030000 +0800">
+<title lang="zh">Adam Bukan Adam Ep01</title>
+<desc>Raof jarang meluangkan masa bersama Anita dan Adam. Sementara itu, Adam mengalami perubahan sikap yang misteri sejak berhenti di sebuah bukit.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602030000 +0800" stop="20260602040000 +0800">
+<title lang="zh">Dr. Pontianak S2 Ep10</title>
+<desc>Doktor Vivy, Ponti-no-anak, ada 30 hari sahaja untuk hidup, hanya ibu paku boleh menyelamatkannya. Kawan hantunya buka bisnes kosmetik.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602040000 +0800" stop="20260602050000 +0800">
+<title lang="zh">Finale Hero Remaja 2021 Ep08</title>
+<desc>Setelah tujuh minggu bersaingan untuk mendapat tempat ke pusingan akhir siapakah yang bakal dinobatkan sebagai Hero Remaja 2021.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602050000 +0800" stop="20260602060000 +0800">
+<title lang="zh">PHD Muzik Ep06</title>
+<desc>Sebuah game show yang menggabungkan artis dan pasangan mereka bertarung dalam pelbagai jenis permainan untuk memenangi gelaran 'PHD Muzik'.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602060000 +0800" stop="20260602070000 +0800">
+<title lang="zh">Tiada Maaf Buatmu Ep16</title>
+<desc>Kehidupan Aina Cempaka telah musnah dan dia hilang ingatan disebabkan musibah yang menimpanya. Faiz Iqbal jatuh cinta pada Aina tanpa mengetahui bahawa Aina adalah mangsa dari sejarah hitamnya.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602070000 +0800" stop="20260602080000 +0800">
+<title lang="zh">The Legend of Anle Ep27</title>
+<desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602080000 +0800" stop="20260602090000 +0800">
+<title lang="zh">Tanya Dr Imelda S3 Ep17</title>
+<desc>Sebuah platform untuk berkongsi maklumat dan kes-kes sebenar mengenai isu-isu kesihatan wanita. Musim baru ini menggalakkan interaksi antara penonton dan pakar.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602090000 +0800" stop="20260602093000 +0800">
+<title lang="zh">#BaikPunya Ep06</title>
+<desc>Program ini akan membawa anda dalam perjalanan untuk mengetahui tempat-tempat tersembunyi dan tempat-tempat popular di Malaysia yang disyorkan oleh penduduk tempatan.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602093000 +0800" stop="20260602100000 +0800">
+<title lang="zh">Pa&Ma Playdate Ep06</title>
+<desc>Pa&Ma Playdate akan mengetengahkan tema seperti pembelajaran, pertumbuhan, persekitaran yang kondusif, kesejahteraan serta empati dan kemampanan sosial.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602100000 +0800" stop="20260602110000 +0800">
+<title lang="zh">Kelas Tahanan Cikgu Hiragi Ep11</title>
+<desc>Pelajar 5A terkejut bila mendapat tahu Ashraf telah bersengkokol dengan BELMS untuk menyebarkan video Reena. Ashraf mengakui kesalahannya dan telah mendedahkan maklumat berkaitan BELMS kepada pihak polis.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602110000 +0800" stop="20260602120000 +0800">
+<title lang="zh">Good Boys Go To Heaven Ep04</title>
+<desc>Yasser meragui tindakannya sendiri, menyebabkan Dahlia juga mula curiga terhadapnya. Bahamin menjadi sasaran Yasser.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602120000 +0800" stop="20260602123000 +0800">
+<title lang="zh">Hlive! Ep17</title>
+<desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602123000 +0800" stop="20260602123300 +0800">
+<title lang="zh">Gelato</title>
+<desc>Gelato merupakan single terbaharu daripada ALPHA yang bakal dimuatkan dalam album debut, The First Wave.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602123300 +0800" stop="20260602133000 +0800">
+<title lang="zh">W: Two Worlds Ep10</title>
+<desc>Ghazi and Hanna learn that they are characters in a comic. Aliff comes up with a plan to stop the Killer, while Musa finds himself under pressure.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602133000 +0800" stop="20260602134500 +0800">
 <title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
 <desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527030000 +0800" stop="20260527040000 +0800">
-<title lang="zh">Gempak Most Wanted 2025 Raya</title>
-<desc>GMW Raya kali ini merewang di malam raya, bersama selebriti terkenal berkongsi kisah serta kenangan raya mereka. Nikmati persembahan lagu raya viral dan carta eksklusif dalam sambutan yang penuh meriah ini</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602134500 +0800" stop="20260602140000 +0800">
+<title lang="zh">Lawak Boss Boss Ep22</title>
+<desc>Bersama Zizan Razak dan CEO syarikat terkenal dan bagaimanakah mereka melakukan cabaran dan bermain permainan menarik?</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527040000 +0800" stop="20260527060000 +0800">
-<title lang="zh">Quran Pondok Buruk</title>
-<desc>Kesinambungan daripada telefilem lagenda Pondok Buruk 1 dan 2, Quran Pondok Buruk mengisahkan obsesi tiga adik-beradik yang derhaka, terdesak mahukan keampunan dari ibu mereka yang telah meninggal dunia.</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602140000 +0800" stop="20260602155800 +0800">
+<title lang="zh">Main Kahwin Kahwin</title>
+<desc>Impian perkahwinan Nina musnah kerana kecurangan tunangnya. Sahabatnya Azam mencadangkan Nina untuk merancang perkahwinannya seperti 'main kahwin kahwin' ketika zaman kanak-kanak mereka.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527060000 +0800" stop="20260527070000 +0800">
-<title lang="zh">Tiada Maaf Buatmu Ep12</title>
-<desc>Kehidupan Aina Cempaka telah musnah dan dia hilang ingatan disebabkan musibah yang menimpanya. Faiz Iqbal jatuh cinta pada Aina tanpa mengetahui bahawa Aina adalah mangsa dari sejarah hitamnya.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527070000 +0800" stop="20260527080000 +0800">
-<title lang="zh">The Legend of Anle Ep23</title>
-<desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527080000 +0800" stop="20260527090000 +0800">
-<title lang="zh">Oh! My Family Raya Bahagian 2 Ep02</title>
-<desc>Rancangan yang memaparkan gelagat keluarga Tya Ariffin, Syatilla Melvin, Rozita Che Wan dan Ajak bersama anak-anak mereka yang cilik keluar dari zon selesa demi menyelesaikan pelbagai misi hebat.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527090000 +0800" stop="20260527100000 +0800">
-<title lang="zh">Sepahtu Reunion Raya Gear 5 Ep03</title>
-<desc>Dato Shuib tinggal bersama Rahim, bapanya yang nyanyuk. Disebabkan sibuk dengan perniagaan, bapanya sering kesunyian.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527100000 +0800" stop="20260527115800 +0800">
-<title lang="zh">Pakwe Bonda Letop</title>
-<desc>Tiga adik-beradik sanggup sabotaj dan menabur fitnah demi menghalang cinta ibu mereka dengan seorang petani moden yang disyaki mahu merampas harta keluarga.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527115800 +0800" stop="20260527120000 +0800">
-<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep06</title>
+<programme channel="2384" start="20260602155800 +0800" stop="20260602160000 +0800">
+<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep07</title>
 <desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527120000 +0800" stop="20260527123000 +0800">
-<title lang="zh">Hlive! Ep14</title>
-<desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527123000 +0800" stop="20260527133000 +0800">
-<title lang="zh">W: Two Worlds Ep06</title>
-<desc>The encounter with Aliff leaves Omar fighting for his life in the hospital. Aliff struggles to deal with the truth of his existence.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527133000 +0800" stop="20260527140000 +0800">
-<title lang="zh">Sofa Kentang 2026 Ep06</title>
-<desc>Saksikan selebriti dan pempengaruh berborak santai sambil memberikan pendapat serta komen mereka tentang program hiburan serta drama tanah air.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527140000 +0800" stop="20260527160000 +0800">
-<title lang="zh">Baik Punya Ah-Long</title>
-<desc>Kisah dua beradik, yang memutuskan untuk memulakan perniagaan pinjaman wang. Ini menimbulkan ketidakpuasan hati ketua mafia di kawasan tersebut, yang kemudiannya memulakan agenda untuk menghapuskan mereka.</desc>
-<date>2026-05-27</date>
-</programme>
-<programme channel="2384" start="20260527160000 +0800" stop="20260527170000 +0800">
-<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep22</title>
+<programme channel="2384" start="20260602160000 +0800" stop="20260602170000 +0800">
+<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep25</title>
 <desc>Ungku Jabbar mengahwini Nilam demi menebus dosa adiknya, dari benci, cinta mula berputik. Namun kepulangan Ungku Jiyyad mengheret Nilam ke dalam dilema antara cinta dan masa silam.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527170000 +0800" stop="20260527175800 +0800">
-<title lang="zh">The Legend of Anle Ep24</title>
+<programme channel="2384" start="20260602170000 +0800" stop="20260602175800 +0800">
+<title lang="zh">The Legend of Anle Ep28</title>
 <desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527175800 +0800" stop="20260527180000 +0800">
-<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep06</title>
+<programme channel="2384" start="20260602175800 +0800" stop="20260602180000 +0800">
+<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep07</title>
 <desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527180000 +0800" stop="20260527185700 +0800">
-<title lang="zh">Raya Bersama Ep01</title>
-<desc>Raya Bersama menyaksikan pasangan pengantin baru, Ernie Zakri dan Syamel menyambut Hari Raya bersama.</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602180000 +0800" stop="20260602183000 +0800">
+<title lang="zh">Travel Anak Beranak Ep06</title>
+<desc>Sharifah Shahirah dan Adira Suhaimi bersama anak masing-masing berangkat ke Perth, Australia mengharungi cabaran lucu dan tidak dijangka yang menguji batas diri mereka, sambil menikmati keindahan landskap.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527185700 +0800" stop="20260527190000 +0800">
-<title lang="zh">Kapsul Bombastika Raya 2026</title>
-<desc>Kapsul Bombastika Raya 2026</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602183000 +0800" stop="20260602190000 +0800">
+<title lang="zh">Mind Your Loghat Ep06</title>
+<desc>Sebuah rancangan memasak yang memartabatkan loghat, budaya dan masakan tradisional negeri-negeri di Malaysia. Di hoskan oleh Dato' Hattan & 2 orang artis jemputan di setiap episod.</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527190000 +0800" stop="20260527200000 +0800">
-<title lang="zh">Dia Bukan Syurga Ep28</title>
+<programme channel="2384" start="20260602190000 +0800" stop="20260602200000 +0800">
+<title lang="zh">Dia Bukan Syurga Ep32</title>
 <desc>Keprihatinan abang ipar yang sentiasa melindungi adik iparnya yang didera mencetuskan cemburu dan ketegangan, menguji kesetiaan dalam keluarga.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527200000 +0800" stop="20260527203000 +0800">
+<programme channel="2384" start="20260602200000 +0800" stop="20260602203000 +0800">
 <title lang="zh">(L) AWANI 7:45/ Sinar AWANI</title>
 <desc>Sinar AWANI membawakan perkembangan berita-berita utama.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527203000 +0800" stop="20260527210000 +0800">
-<title lang="zh">Hlive! Ep15</title>
+<programme channel="2384" start="20260602203000 +0800" stop="20260602210000 +0800">
+<title lang="zh">Hlive! Ep18</title>
 <desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527210000 +0800" stop="20260527220000 +0800">
-<title lang="zh">Bapa Mertuaku Mafia Ep05</title>
-<desc>Takdir, ustaz muda berpengaruh, diterima sebagai calon menantu. Namun hidupnya berubah apabila tersalah mengambil wang haram milik mafia Zack.</desc>
-<date>2026-05-27</date>
+<programme channel="2384" start="20260602210000 +0800" stop="20260602220000 +0800">
+<title lang="zh">(L) MeleTOP S14 Ep32</title>
+<desc>Rancangan hiburan yang padat dengan segala yang 'trendy' lagi sensasi, dari pentas hiburan tempatan dan antarabangsa. Dihoskan oleh NABIL AHMAD dan rakan pengacaranya pastinya kelakar dan 'meletop'!</desc>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527220000 +0800" stop="20260527230000 +0800">
-<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep23</title>
+<programme channel="2384" start="20260602220000 +0800" stop="20260602230000 +0800">
+<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep26</title>
 <desc>Ungku Jabbar mengahwini Nilam demi menebus dosa adiknya, dari benci, cinta mula berputik. Namun kepulangan Ungku Jiyyad mengheret Nilam ke dalam dilema antara cinta dan masa silam.</desc>
-<date>2026-05-27</date>
+<date>2026-06-02</date>
 </programme>
-<programme channel="2384" start="20260527230000 +0800" stop="20260527233000 +0800">
-<title lang="zh">Gempak Most Wanted 2026 Ep14</title>
+<programme channel="2384" start="20260602230000 +0800" stop="20260602235800 +0800">
+<title lang="zh">Alpha Dreams Unlocked : Seoul Chapter Ep04</title>
+<desc>Alpha Dreams Unlocked: Seoul Chapter bukan sekadar kisah latihan, tetapi sebuah perjalanan transformasi—membuktikan bahawa Alpha benar-benar made to dominate.</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260602235800 +0800" stop="20260603000000 +0800">
+<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep07</title>
+<desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
+<date>2026-06-02</date>
+</programme>
+<programme channel="2384" start="20260603000000 +0800" stop="20260603000300 +0800">
+<title lang="zh">Gempak Most Wanted Bytes 2026 Ep56</title>
+<desc>Saksikan Gempak Most Wanted setiap Rabu jam 11 malam di Astro Ria.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603000300 +0800" stop="20260603020000 +0800">
+<title lang="zh">Hierarki</title>
+<desc>Menceritakan tentang beberapa remaja yang mempunyai masalah hidup yang berbeza yang tiba tiba mendapat jemputan ke sebuah game, Vertigo di mana pemenang akan memenangi RM10,000.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603020000 +0800" stop="20260603023000 +0800">
+<title lang="zh">The Maid Ep02</title>
+<desc>Mengisahkan Suhana, Nadia, Fika dan Elisa yang merupakan isteri kepada seorang jutawan terkenal, Jay. Hubungan keempat-empat isteri ini pada luarannya nampak baik tetapi sebenarnya mereka sering bermusuhan</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603023000 +0800" stop="20260603030000 +0800">
+<title lang="zh">Adam Bukan Adam Ep02</title>
+<desc>Anita buntu dengan sikap Raof yang jarang pulang ke rumah. Namun terpaksa berdepan dengan masalah Adam yang semakin aneh. Adam kerap melukis gambar-gambar aneh tentang kematian.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603030000 +0800" stop="20260603040000 +0800">
+<title lang="zh">Dr. Pontianak S2 Ep11</title>
+<desc>Doktor Vivy, Ponti-no-anak, ada 30 hari sahaja untuk hidup, hanya ibu paku boleh menyelamatkannya. Kawan hantunya buka bisnes kosmetik.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603040000 +0800" stop="20260603050000 +0800">
+<title lang="zh">Maskulin: Who's Your Bro Ep01</title>
+<desc>Saksikan bagaimana 12 peserta, dipasangkan menjadi duo dinamik, mengharungi cabaran yang menguji ketahanan dan persahabatan sejati mereka.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603050000 +0800" stop="20260603060000 +0800">
+<title lang="zh">PHD Muzik Ep07</title>
+<desc>Sebuah game show yang menggabungkan artis dan pasangan mereka bertarung dalam pelbagai jenis permainan untuk memenangi gelaran 'PHD Muzik'.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603060000 +0800" stop="20260603070000 +0800">
+<title lang="zh">Tiada Maaf Buatmu Ep17</title>
+<desc>Kehidupan Aina Cempaka telah musnah dan dia hilang ingatan disebabkan musibah yang menimpanya. Faiz Iqbal jatuh cinta pada Aina tanpa mengetahui bahawa Aina adalah mangsa dari sejarah hitamnya.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603070000 +0800" stop="20260603080000 +0800">
+<title lang="zh">The Legend of Anle Ep28</title>
+<desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603080000 +0800" stop="20260603090000 +0800">
+<title lang="zh">Tanya Dr Imelda S3 Ep18</title>
+<desc>Sebuah platform untuk berkongsi maklumat dan kes-kes sebenar mengenai isu-isu kesihatan wanita. Musim baru ini menggalakkan interaksi antara penonton dan pakar.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603090000 +0800" stop="20260603093000 +0800">
+<title lang="zh">Trek Selebriti Ep06</title>
+<desc>Trek Selebriti kembali dengan perkongsian yang lebih menarik dari selebriti hangat tempatan. Ikuti Keanu Azman sebagai pengacara anda menyelami latar belakang selebriti tempatan sebelum bergelar anak seni.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603093000 +0800" stop="20260603100000 +0800">
+<title lang="zh">The Making of The Furious</title>
+<desc>Apabila YouTuber Danial menghina nama arwah bapa mereka, Firdaus dan Hakim bersatu semula. Seorang mencari penebusan, seorang lagi membalas dendam dalam pertempuran yang menentukan nasib legasi The Furious</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603100000 +0800" stop="20260603110000 +0800">
+<title lang="zh">Kelas Tahanan Cikgu Hiragi Ep12</title>
+<desc>Hiragi masih belum sedarkan diri. Pelajar 5A mengambil kesempatan untuk menceroboh bilik seni dan mengambil kembali telefon bimbit mereka dan menyelamatkan Adam.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603110000 +0800" stop="20260603115800 +0800">
+<title lang="zh">MeleTOP S14 Ep32</title>
+<desc>Rancangan hiburan yang padat dengan segala yang 'trendy' lagi sensasi, dari pentas hiburan tempatan dan antarabangsa. Dihoskan oleh NABIL AHMAD dan rakan pengacaranya pastinya kelakar dan 'meletop'!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603115800 +0800" stop="20260603120000 +0800">
+<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep07</title>
+<desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603120000 +0800" stop="20260603123000 +0800">
+<title lang="zh">Hlive! Ep18</title>
+<desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603123000 +0800" stop="20260603133000 +0800">
+<title lang="zh">W: Two Worlds Ep11</title>
+<desc>Aliff and Ghazi rush to Izara's aid after learning that she has been kidnapped, but Musa and the Killer are prepared. Aliff confronts his family's murderer but will he get his revenge?</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603133000 +0800" stop="20260603140000 +0800">
+<title lang="zh">The Making of The Furious</title>
+<desc>Apabila YouTuber Danial menghina nama arwah bapa mereka, Firdaus dan Hakim bersatu semula. Seorang mencari penebusan, seorang lagi membalas dendam dalam pertempuran yang menentukan nasib legasi The Furious</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603140000 +0800" stop="20260603155700 +0800">
+<title lang="zh">Please Subscribe Cintaku</title>
+<desc>Hannah dan Alia rakannya telah pergi ke tapak pembinaan terbengkalai untuk mencari bahan untuk saluran YouTube nya namun tanpa di duga dia telah merakam satu pembunuhan.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603155700 +0800" stop="20260603160000 +0800">
+<title lang="zh">Gelato</title>
+<desc>Gelato merupakan single terbaharu daripada ALPHA yang bakal dimuatkan dalam album debut, The First Wave.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603160000 +0800" stop="20260603170000 +0800">
+<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep26</title>
+<desc>Ungku Jabbar mengahwini Nilam demi menebus dosa adiknya, dari benci, cinta mula berputik. Namun kepulangan Ungku Jiyyad mengheret Nilam ke dalam dilema antara cinta dan masa silam.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603170000 +0800" stop="20260603175800 +0800">
+<title lang="zh">The Legend of Anle Ep29</title>
+<desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603175800 +0800" stop="20260603180000 +0800">
+<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep07</title>
+<desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603180000 +0800" stop="20260603183000 +0800">
+<title lang="zh">expeRIAnce:Fantasy Escape Ep02</title>
+<desc>A realty travelogue concept of journey with celebrities to explore and experience the excitement of world renown events that take place every year.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603183000 +0800" stop="20260603190000 +0800">
+<title lang="zh">Kak Kek & Abe Mmasok Ep06</title>
+<desc>Untuk episod raya kali ini, Mark Adam akan bersama Kak Kek untuk menyambut raya. Kak Kek akan memasak menu kegemaran Mark Adam iaitu Nasi Impit dan Rendang kepada masakan yang sihat dan rendah kalori.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603190000 +0800" stop="20260603200000 +0800">
+<title lang="zh">Mandul Bukan Pilihan Ep01</title>
+<desc>Billa dan Aldi jatuh cinta, namun keluarga bimbang sejarah berulang apabila Billa disahkan menghidap POI dan sukar hamil.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603200000 +0800" stop="20260603203000 +0800">
+<title lang="zh">(L) AWANI 7:45/ Sinar AWANI</title>
+<desc>Sinar AWANI membawakan perkembangan berita-berita utama.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603203000 +0800" stop="20260603210000 +0800">
+<title lang="zh">Hlive! Ep19</title>
+<desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603210000 +0800" stop="20260603220000 +0800">
+<title lang="zh">Bapa Mertuaku Mafia Ep07</title>
+<desc>Takdir, ustaz muda berpengaruh, diterima sebagai calon menantu. Namun hidupnya berubah apabila tersalah mengambil wang haram milik mafia Zack.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603220000 +0800" stop="20260603230000 +0800">
+<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep27</title>
+<desc>Ungku Jabbar mengahwini Nilam demi menebus dosa adiknya, dari benci, cinta mula berputik. Namun kepulangan Ungku Jiyyad mengheret Nilam ke dalam dilema antara cinta dan masa silam.</desc>
+<date>2026-06-03</date>
+</programme>
+<programme channel="2384" start="20260603230000 +0800" stop="20260603233000 +0800">
+<title lang="zh">Gempak Most Wanted 2026 Ep15</title>
 <desc>Sebuah rancangan carta interaktif mingguan memfokuskan segala yang trending, viral & sensasi di semua platform digital.</desc>
-<date>2026-05-27</date>
+<date>2026-06-03</date>
 </programme>
-<programme channel="2384" start="20260527233000 +0800" stop="20260527234500 +0800">
+<programme channel="2384" start="20260603233000 +0800" stop="20260603234500 +0800">
 <title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
 <desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-27</date>
+<date>2026-06-03</date>
 </programme>
-<programme channel="2384" start="20260527234500 +0800" stop="20260528000000 +0800">
-<title lang="zh">Lawak Boss Boss Ep18</title>
+<programme channel="2384" start="20260603234500 +0800" stop="20260604000000 +0800">
+<title lang="zh">Lawak Boss Boss Ep23</title>
 <desc>Bersama Zizan Razak dan CEO syarikat terkenal dan bagaimanakah mereka melakukan cabaran dan bermain permainan menarik?</desc>
-<date>2026-05-27</date>
+<date>2026-06-03</date>
 </programme>
-<programme channel="2384" start="20260528000000 +0800" stop="20260528023000 +0800">
-<title lang="zh">Konsert GenKRU</title>
-<desc>Konsert GenKRU merupakan sebuah konsert yang berjaya mencipta fenomena hangat di Malaysia yang diterajui trio adik-beradik ikonik—Datuk Norman, Datuk Yusry, dan Edry Abdul Halim.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528023000 +0800" stop="20260528040000 +0800">
-<title lang="zh">Holla Dolla</title>
-<desc>Dolla dan rakan artis generasi kini berdepan cabaran untuk mempersembahkan lagu popular dari ikon industri muzik tanah air: Amy Mastura, Ramlah Ram dan Jeffrydin.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528040000 +0800" stop="20260528054000 +0800">
-<title lang="zh">Rapun</title>
-<desc>Mengisahkan Mak Midah yang ingin anaknya Anan pulang, tidak mengetahui bahawa Anan kini merupakan suami kepada hartawan yang malu mengaku asal usulnya, lakonan Ellie Suriaty & Fattah Amin.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528054000 +0800" stop="20260528060000 +0800">
-<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
-<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528060000 +0800" stop="20260528070000 +0800">
-<title lang="zh">Tiada Maaf Buatmu Ep13</title>
-<desc>Kehidupan Aina Cempaka telah musnah dan dia hilang ingatan disebabkan musibah yang menimpanya. Faiz Iqbal jatuh cinta pada Aina tanpa mengetahui bahawa Aina adalah mangsa dari sejarah hitamnya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528070000 +0800" stop="20260528080000 +0800">
-<title lang="zh">The Legend of Anle Ep24</title>
-<desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528080000 +0800" stop="20260528090000 +0800">
-<title lang="zh">Siapa Nombor Syatu (Lina vs Rina)</title>
-<desc>Ikuti perjalanan Kak Lina ke Jakarta untuk bertemu penghibur wanita nombor satu Indonesia, Rina Nose. Saksikan gelagat mereka beradu lawak jenaka serta Kak Lina mempelajari kemahiran ajukan dari Rina Nose</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528090000 +0800" stop="20260528100000 +0800">
-<title lang="zh">Sepahtu Reunion Raya Gear 5 Ep04</title>
-<desc>Dato Shuib tinggal bersama Rahim, bapanya yang nyanyuk. Disebabkan sibuk dengan perniagaan, bapanya sering kesunyian.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528100000 +0800" stop="20260528120000 +0800">
-<title lang="zh">Heist-Dil-Adha</title>
-<desc>Taikun Kartel lembu meminta bantuan tiga orang perompak professional untuk mendapat kembali lembunya yang dicuri.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528120000 +0800" stop="20260528123000 +0800">
-<title lang="zh">Hlive! Ep15</title>
-<desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528123000 +0800" stop="20260528133000 +0800">
-<title lang="zh">W: Two Worlds Ep07</title>
-<desc>Izara struggles to move on and accept the fact that Aliff no longer remembers her. Meanwhile, the Killer revels in his new identity and sets out to wreak havoc.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528133000 +0800" stop="20260528134500 +0800">
-<title lang="zh">AstroBiz Mencari Kedai Lejen: Rezeky Tomyam</title>
-<desc>Mencari Kedai Lejen ialah siri dokumentari yang mengangkat kisah pemilik F&B tempatan. Dua restoran, dua menu berlainan, berkongsi satu legasi kisah Aunty T's serta Rezeky Tomyam, dedikasi dan pengorbanan.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528134500 +0800" stop="20260528140000 +0800">
-<title lang="zh">Lawak Boss Boss Ep19</title>
-<desc>Bersama Zizan Razak dan CEO syarikat terkenal dan bagaimanakah mereka melakukan cabaran dan bermain permainan menarik?</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528140000 +0800" stop="20260528155800 +0800">
-<title lang="zh">Akad Yang Hilang</title>
-<desc>Sebulan sebelum perkahwinannya, Maryam mendapat tahu perkahwinan ibu bapanya tidak sah. Hancur, Maryam mencari kebenaran tentang perkahwinan ibu bapanya.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528155800 +0800" stop="20260528160000 +0800">
-<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep06</title>
-<desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528160000 +0800" stop="20260528170000 +0800">
-<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep23</title>
-<desc>Ungku Jabbar mengahwini Nilam demi menebus dosa adiknya, dari benci, cinta mula berputik. Namun kepulangan Ungku Jiyyad mengheret Nilam ke dalam dilema antara cinta dan masa silam.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528170000 +0800" stop="20260528175800 +0800">
-<title lang="zh">The Legend of Anle Ep25</title>
-<desc>Seorang puteri menyamar untuk membalas dendam selepas keluarganya difitnah atas tuduhan penderhakaan dan dihukum mati. Dia membantu putera menyelesaikan beberapa kes, dan mereka berdua akhirnya jatuh cinta</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528175800 +0800" stop="20260528180000 +0800">
-<title lang="zh">Weekly Trailer Isteri Rahsia Ungku Jabbar Ep06</title>
-<desc>Weekly Trailer Isteri Rahsia Ungku Jabbar</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528180000 +0800" stop="20260528190000 +0800">
-<title lang="zh">Raya Bersama Ep02</title>
-<desc>Harris Alif dan Intan Ladyana berkongsi sambutan Raya sebagai suami dan isteri dalam Raya Bersama.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528190000 +0800" stop="20260528200000 +0800">
-<title lang="zh">Dia Bukan Syurga Ep29</title>
-<desc>Keprihatinan abang ipar yang sentiasa melindungi adik iparnya yang didera mencetuskan cemburu dan ketegangan, menguji kesetiaan dalam keluarga.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528200000 +0800" stop="20260528203000 +0800">
-<title lang="zh">(L) AWANI 7:45/ Sinar AWANI</title>
-<desc>Sinar AWANI membawakan perkembangan berita-berita utama.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528203000 +0800" stop="20260528210000 +0800">
-<title lang="zh">Hlive! Ep16</title>
-<desc>Yang Hip, Yang Hangat! Rancangan berita hiburan dalam dan luar negara secara eksklusif di hlive! Hiburan Tanpa Henti!</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528210000 +0800" stop="20260528220000 +0800">
-<title lang="zh">Bapa Mertuaku Mafia Ep06</title>
-<desc>Takdir, ustaz muda berpengaruh, diterima sebagai calon menantu. Namun hidupnya berubah apabila tersalah mengambil wang haram milik mafia Zack.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528220000 +0800" stop="20260528230000 +0800">
-<title lang="zh">MegaDrama: Isteri Rahsia Ungku Jabbar Ep24</title>
-<desc>Ungku Jabbar mengahwini Nilam demi menebus dosa adiknya, dari benci, cinta mula berputik. Namun kepulangan Ungku Jiyyad mengheret Nilam ke dalam dilema antara cinta dan masa silam.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528230000 +0800" stop="20260528232700 +0800">
-<title lang="zh">BTS Talk To My Manager S2 Ep07</title>
-<desc>Saksikan momen-momen menarik di sepanjang berlangsungnya program Talk To My Manager.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528232700 +0800" stop="20260528233000 +0800">
-<title lang="zh">Gempak Most Wanted Bytes 2026 Ep53</title>
-<desc>Saksikan Gempak Most Wanted setiap Rabu jam 11 malam di Astro Ria.</desc>
-<date>2026-05-28</date>
-</programme>
-<programme channel="2384" start="20260528233000 +0800" stop="20260529000000 +0800">
-<title lang="zh">Podcast Talk To My Manager S2 Ep06</title>
-<desc>Podcast TTMM Musim 2 menyelami kisah sebenar peserta, menampilkan perbualan tentang latar belakang, cabaran, emosi dan detik penting yang membentuk diri mereka di pentas.</desc>
-<date>2026-05-28</date>
+<programme channel="2384" start="20260604000000 +0800" stop="20260605000000 +0800">
+<title lang="zh">Aneh</title>
+<desc>Seorang lelaki berada dalam koma setelah kemalangan jalan raya dan dalam keadaan tidak sedar itu, dia meminta bantuan seorang wanita tentang jin yang mengganggu keluarganya.</desc>
+<date>2026-06-04</date>
 </programme>
 </tv>
