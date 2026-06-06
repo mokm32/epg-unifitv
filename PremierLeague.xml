@@ -1,127 +1,122 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260602191236 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/397396/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=397396&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260606204100 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/397396/20260606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=397396&date=20260606&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="397396">
 <display-name lang="Malaysia">Astro Premier League</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018011443588338_92.png"/>
 </channel>
-<programme channel="397396" start="20260602002000 +0800" stop="20260602034000 +0800">
-<title lang="zh">PL: Tottenham vs Leeds</title>
-<desc>Premier League 2025/26: Match Week 36: Tottenham Hotspur vs. Leeds United, from Tottenham Hotspur Stadium.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606001000 +0800" stop="20260606032000 +0800">
+<title lang="zh">PL: Everton vs Liverpool</title>
+<desc>Premier League 2025/26: Match Week 33: Everton vs. Liverpool, from Hill Dickinson Stadium.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602034000 +0800" stop="20260602055000 +0800">
-<title lang="zh">PL: Brighton vs Chelsea</title>
-<desc>Premier League 2025/26: Match Week 34: Brighton & Hove Albion vs. Chelsea, from American Express Stadium.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606032000 +0800" stop="20260606053000 +0800">
+<title lang="zh">PL: Burnley vs Wolves</title>
+<desc>Premier League 2025/26: Match Week 38: Burnley vs. Wolverhampton Wanderers, from Turf Moor.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602055000 +0800" stop="20260602080000 +0800">
-<title lang="zh">PL: Nottm Forest vs Newcastle</title>
-<desc>Premier League 2025/26: Match Week 36: Nottingham Forest vs. Newcastle United, from The City Ground.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606053000 +0800" stop="20260606060000 +0800">
+<title lang="zh">PL Stories 2025/26: Leicester City - 5000/1</title>
+<desc>Ten years on from one of football's greatest sporting shocks, we revisit the extraordinary story of Leicester City's Premier League title-winning season.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602080000 +0800" stop="20260602101000 +0800">
-<title lang="zh">PL: Bournemouth vs Man City</title>
-<desc>Premier League 2025/26: Match Week 37: A.F.C. Bournemouth vs. Manchester City, from Vitality Stadium.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606060000 +0800" stop="20260606081000 +0800">
+<title lang="zh">PL: Brighton vs Wolves</title>
+<desc>Premier League 2025/26: Match Week 36: Brighton & Hove Albion vs. Wolverhampton Wanderers, from American Express Stadium.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602101000 +0800" stop="20260602114000 +0800">
-<title lang="zh">Final Whistle: Season 2025/26 Ep07</title>
-<desc>Stephen Warnock takes us through the highs of his career, from lifting the UEFA Super Cup with Liverpool in 2005 to his journey across multiple Premier League clubs. He reflects on the glory days at Anfiel</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606081000 +0800" stop="20260606102000 +0800">
+<title lang="zh">PL: Newcastle vs West Ham</title>
+<desc>Premier League 2025/26: Match Week 37: Newcastle United vs. West Ham United, from St. James' Park.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602114000 +0800" stop="20260602121000 +0800">
-<title lang="zh">Liverpool vs Newcastle United 1995/96</title>
-<desc>PL Classic 2023/24: In one of the matches of the decade, Liverpool took the points in this thriller.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606102000 +0800" stop="20260606134000 +0800">
+<title lang="zh">PL: Chelsea vs Tottenham</title>
+<desc>Premier League 2025/26: Match Week 37: Chelsea vs. Tottenham Hotspur, from Stamford Bridge.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602121000 +0800" stop="20260602153000 +0800">
-<title lang="zh">PL: Man Utd vs Liverpool</title>
-<desc>Premier League 2025/26: Match Week 35: Manchester United vs. Liverpool, from Old Trafford.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606134000 +0800" stop="20260606165000 +0800">
+<title lang="zh">PL: Everton vs Liverpool</title>
+<desc>Premier League 2025/26: Match Week 33: Everton vs. Liverpool, from Hill Dickinson Stadium.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602153000 +0800" stop="20260602160000 +0800">
-<title lang="zh">PL Classic: Malaysia vs Chelsea 2003</title>
-<desc>PL Classic 2023/24: Three goals in the last 20 minutes against Malaysia booked Chelsea's place in the inaugural Premier League Asia Trophy final.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606165000 +0800" stop="20260606190000 +0800">
+<title lang="zh">PL: Nottm Forest vs Bournemouth</title>
+<desc>Premier League 2025/26: Match Week 38: Nottingham Forest vs. A.F.C. Bournemouth, from The City Ground.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602160000 +0800" stop="20260602163000 +0800">
-<title lang="zh">Manchester United vs Aston Villa 2012/13</title>
-<desc>PL Classic 2023/24: Manchester United seal their 20th Premier League title with an easy win over Villa thanks to a Robin van Persie hat-trick.</desc>
-<date>2026-06-02</date>
+<programme channel="397396" start="20260606190000 +0800" stop="20260606210000 +0800">
+<title lang="zh">Classic Match: ARS 5-2 TOT 12/13</title>
+<desc>We delve into the Premier League archive to bring you a Classic Match from the 2011/2012 season.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260602163000 +0800" stop="20260602174000 +0800">
-<title lang="zh">The Art of... The Centre Back With Joleon Lescott</title>
-<desc>Once the unsung workhorses of English football, centre-backs have become some of the Premier League's most influential figures.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397396" start="20260602174000 +0800" stop="20260602195000 +0800">
-<title lang="zh">PL: Brighton vs Man Utd</title>
-<desc>Premier League 2025/26: Match Week 38: Brighton & Hove Albion vs. Manchester United, from American Express Stadium.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397396" start="20260602195000 +0800" stop="20260602214000 +0800">
-<title lang="zh">Classic Match: ARS 4-4 TOT 08/09</title>
-<desc>We delve into the Premier League archive to bring you a Classic Match from the 2008/2009 season.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397396" start="20260602214000 +0800" stop="20260603000000 +0800">
-<title lang="zh">PL: Tottenham vs Everton</title>
-<desc>Premier League 2025/26: Match Week 38: Tottenham Hotspur vs. Everton, from Tottenham Hotspur Stadium.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397396" start="20260603020000 +0800" stop="20260603033000 +0800">
-<title lang="zh">Final Whistle: Season 2025/26 Ep05</title>
-<desc>Jonjo Shelvey traces his journey through the Premier League. From the pressure of playing for Liverpool to finding his rhythm at Swansea City, and becoming a cult hero at Newcastle United.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603033000 +0800" stop="20260603040000 +0800">
-<title lang="zh">PL Stories: The Great North London Divide</title>
-<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603040000 +0800" stop="20260603060000 +0800">
-<title lang="zh">PL: Sunderland vs Man Utd</title>
-<desc>Premier League 2025/26: Match Week 36: Sunderland vs. Manchester United, from Stadium of Light.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603060000 +0800" stop="20260603081000 +0800">
-<title lang="zh">PL: Crystal Palace vs Everton</title>
-<desc>Premier League 2025/26: Match Week 36: Crystal Palace vs. Everton, from Selhurst Park.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603081000 +0800" stop="20260603102000 +0800">
-<title lang="zh">PL: Man Utd vs Nottm Forest</title>
-<desc>Premier League 2025/26: Match Week 37: Manchester United vs. Nottingham Forest, from Old Trafford.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603102000 +0800" stop="20260603123000 +0800">
-<title lang="zh">PL: Brentford vs Crystal Palace</title>
-<desc>Premier League 2025/26: Match Week 37: Brentford vs. Crystal Palace, from Gtech Community Stadium.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603123000 +0800" stop="20260603155000 +0800">
-<title lang="zh">PL: Chelsea vs Nottm Forest</title>
-<desc>Premier League 2025/26: Match Week 35: Chelsea vs. Nottingham Forest, from Stamford Bridge.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603155000 +0800" stop="20260603180000 +0800">
-<title lang="zh">PL: West Ham vs Leeds</title>
-<desc>Premier League 2025/26: Match Week 38: West Ham United vs. Leeds United, from London Stadium.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397396" start="20260603180000 +0800" stop="20260603200000 +0800">
+<programme channel="397396" start="20260606210000 +0800" stop="20260606230000 +0800">
 <title lang="zh">Review Of The Season 25/26</title>
 <desc>Review of the Season documents all of the thrilling stories to emerge across the 380 matches.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260603200000 +0800" stop="20260603220000 +0800">
-<title lang="zh">Classic Match: MUN 4-4 EVE 11/12</title>
-<desc>We delve into the Premier League archive to bring you a Classic Match from the 2011/2012 season.</desc>
-<date>2026-06-03</date>
+<programme channel="397396" start="20260606230000 +0800" stop="20260607000000 +0800">
+<title lang="zh">PL: Aston Villa vs Liverpool</title>
+<desc>Premier League 2025/26: Match Week 37: Aston Villa vs. Liverpool, from Villa Park.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397396" start="20260603220000 +0800" stop="20260604000000 +0800">
-<title lang="zh">PL: Arsenal vs Bournemouth</title>
-<desc>Premier League 2025/26: Match Week 32: Arsenal vs. A.F.C. Bournemouth, from Emirates Stadium.</desc>
-<date>2026-06-03</date>
+<programme channel="397396" start="20260607022000 +0800" stop="20260607054000 +0800">
+<title lang="zh">PL: Chelsea vs Arsenal</title>
+<desc>Premier League 2025/26: Match Week 13: Chelsea vs. Arsenal, from Stamford Bridge.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607054000 +0800" stop="20260607075000 +0800">
+<title lang="zh">PL: Wolves vs Fulham</title>
+<desc>Premier League 2025/26: Match Week 37: Wolverhampton Wanderers vs. Fulham, from Molineux Stadium.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607075000 +0800" stop="20260607095000 +0800">
+<title lang="zh">PL: Burnley vs Aston Villa</title>
+<desc>Premier League 2025/26: Match Week 36: Burnley vs. Aston Villa, from Turf Moor.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607095000 +0800" stop="20260607102000 +0800">
+<title lang="zh">PL Classic: Malaysia vs Birmingham 2003</title>
+<desc>PL Classic 2023/24: Birmingham City won the Premier League Asia Trophy third place play-off with a 4-0 victory over hosts Malaysia.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607102000 +0800" stop="20260607105000 +0800">
+<title lang="zh">PL Stories 2026/27: Lee Bowyer</title>
+<desc>We sit down with Lee Bowyer to look back on the career of one of the Premier League's fiercest and most competitive midfielders.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607105000 +0800" stop="20260607130000 +0800">
+<title lang="zh">PL: Man Utd vs Brentford</title>
+<desc>Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607130000 +0800" stop="20260607171000 +0800">
+<title lang="zh">PL: Tottenham vs Everton</title>
+<desc>Premier League 2025/26: Match Week 38: Tottenham Hotspur vs. Everton, from Tottenham Hotspur Stadium.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607171000 +0800" stop="20260607200000 +0800">
+<title lang="zh">PL: Liverpool vs Chelsea</title>
+<desc>Premier League 2025/26: Match Week 36: Liverpool vs. Chelsea, from Anfield.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607200000 +0800" stop="20260607203000 +0800">
+<title lang="zh">PL Classic: Chelsea vs Newcastle 2003</title>
+<desc>PL Classic 2023/24: Chelsea won the inaugural Premier League Asia Trophy after winning on penalties against Newcastle United.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607203000 +0800" stop="20260607210000 +0800">
+<title lang="zh">PL Classic: Thailand vs Everton 2005</title>
+<desc>PL Classic 2023/24: Thailand produced the shock of the tournament when they knocked Everton out of the Asia Trophy on penalties.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607210000 +0800" stop="20260607220000 +0800">
+<title lang="zh">Goals of The Season 2025/26</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397396" start="20260607220000 +0800" stop="20260608000000 +0800">
+<title lang="zh">PL: Man Utd vs Liverpool</title>
+<desc>Premier League 2025/26: Match Week 35: Manchester United vs. Liverpool, from Old Trafford.</desc>
+<date>2026-06-07</date>
 </programme>
 </tv>
