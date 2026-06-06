@@ -1,147 +1,142 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260602191128 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/4209/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=4209&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260606203948 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/4209/20260606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=4209&date=20260606&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="4209">
 <display-name lang="Malaysia">Arena Bola</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061514055903_10.png"/>
 </channel>
-<programme channel="4209" start="20260602000000 +0800" stop="20260602020000 +0800">
-<title lang="zh">MSL 2025/26: PDRM lwn PEN</title>
-<desc>Liga Super 2025/26 perlawanan ke-146: PDRM lwn Penang dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260606000000 +0800" stop="20260606020000 +0800">
+<title lang="zh">MSL 2025/26: PEN lwn SAB</title>
+<desc>Liga Super 2025/26 perlawanan ke-137: Penang lwn Sabah dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602020000 +0800" stop="20260602040000 +0800">
-<title lang="zh">MSL 2025/26: KTRW lwn TER</title>
-<desc>Liga Super 2025/26 perlawanan ke-115: Kelantan The Real Warriors FC lwn Terengganu FC dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260606020000 +0800" stop="20260606040000 +0800">
+<title lang="zh">MSL 2025/26: KUC lwn TER</title>
+<desc>Liga Super 2025/26 perlawanan ke-139: Kuching City lwn Terengganu dari Stadium Negeri, Kuching, Sarawak.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602040000 +0800" stop="20260602060000 +0800">
-<title lang="zh">MSL 2025/26: KUC lwn SAB</title>
-<desc>Liga Super 2025/26 perlawanan ke-116: Kuching City FC lwn Sabah FC dari Stadium Negeri, Kuching, Sarawak.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260606040000 +0800" stop="20260606060000 +0800">
+<title lang="zh">MSL 2025/26: SAB lwn PDRM</title>
+<desc>Liga Super 2025/26 perlawanan ke-140: Sabah lwn PDRM dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602060000 +0800" stop="20260602080000 +0800">
-<title lang="zh">MSL 2025/26: PDRM lwn PEN</title>
-<desc>Liga Super 2025/26 perlawanan ke-146: PDRM lwn Penang dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260606060000 +0800" stop="20260606080000 +0800">
+<title lang="zh">MSL 2025/26: JDT LWN KLC</title>
+<desc>Liga Super 2025/26 perlawanan ke-141: Johor Darul Ta'zim lwn Kuala Lumpur City dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602080000 +0800" stop="20260602100000 +0800">
-<title lang="zh">MSL 2025/26: MEL lwn KUC</title>
-<desc>Liga Super 2025/26 perlawanan ke-147: Melaka lwn Kuching City dari Stadium Hang Jebat, Melaka.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260606080000 +0800" stop="20260606100000 +0800">
+<title lang="zh">MSL 2025/26: SEL lwn PEN</title>
+<desc>Liga Super 2025/26 perlawanan ke-142: Selangor lwn Penang dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602100000 +0800" stop="20260602120000 +0800">
+<programme channel="4209" start="20260606100000 +0800" stop="20260606120000 +0800">
+<title lang="zh">MSL 2025/26: IFC lwn DPMM</title>
+<desc>Liga Super 2025/26 perlawanan ke-143: Imigresen lwn DPMM FC dari Stadium Tuanku Syed Putra, Kangar, Perlis.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4209" start="20260606120000 +0800" stop="20260606130000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4209" start="20260606130000 +0800" stop="20260606150000 +0800">
+<title lang="zh">MSL 2025/26: NSE lwn MEL</title>
+<desc>Liga Super 2025/26 perlawanan ke-144: Negeri Sembilan lwn Melaka dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4209" start="20260606150000 +0800" stop="20260606170000 +0800">
 <title lang="zh">MSL 2025/26: TER lwn IFC</title>
 <desc>Liga Super 2025/26 perlawanan ke-145: Terengganu lwn Imigresen dari Stadium Sultan Mizan Zainal Abidin, Kuala Terengganu.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602120000 +0800" stop="20260602140000 +0800">
+<programme channel="4209" start="20260606170000 +0800" stop="20260606190000 +0800">
+<title lang="zh">MSL 2025/26: PDRM lwn PEN</title>
+<desc>Liga Super 2025/26 perlawanan ke-146: PDRM lwn Penang dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4209" start="20260606190000 +0800" stop="20260606210000 +0800">
+<title lang="zh">MSL 2025/26: MEL lwn KUC</title>
+<desc>Liga Super 2025/26 perlawanan ke-147: Melaka lwn Kuching City dari Stadium Hang Jebat, Melaka.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4209" start="20260606210000 +0800" stop="20260606220000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4209" start="20260606220000 +0800" stop="20260607000000 +0800">
 <title lang="zh">MSL 2025/26: DPMM lwn SAB</title>
 <desc>Liga Super 2025/26 perlawanan ke-148: DPMM lwn Sabah dari Stadium Negara Hassanal Bolkiah, Berakas, Brunei.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4209" start="20260602140000 +0800" stop="20260602160000 +0800">
+<programme channel="4209" start="20260607000000 +0800" stop="20260607020000 +0800">
 <title lang="zh">MSL 2025/26: KLC lwn NSE</title>
 <desc>Liga Super 2025/26 perlawanan ke-149: Kuala Lumpur City lwn Negeri Sembilan dari Stadium Bolasepak Kuala Lumpur, Cheras. Selangor.</desc>
-<date>2026-06-02</date>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4209" start="20260602160000 +0800" stop="20260602180000 +0800">
-<title lang="zh">MSL 2025/26: KTRW lwn JDT</title>
-<desc>Liga Super 2025/26 perlawanan ke-150: Kelantan The Real Warriors FC lwn Johor Darul Ta'zim dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260607020000 +0800" stop="20260607040000 +0800">
+<title lang="zh">Piala Malaysia 2025/26: KLC lwn JDT</title>
+<desc>Piala Malaysia 2025/26: Separuh Akhir Pertama: Kuala Lumpur City lwn Johor Darul Ta'zim dari Stadium Bolasepak Kuala Lumpur, Cheras.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4209" start="20260602180000 +0800" stop="20260602190000 +0800">
-<title lang="zh">Bola Dulu Baru Kamu!</title>
-<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
-<date>2026-06-02</date>
+<programme channel="4209" start="20260607040000 +0800" stop="20260607060000 +0800">
+<title lang="zh">Piala Malaysia 2025/26: JDT lwn KLC</title>
+<desc>Piala Malaysia 2025/26: Separuh Akhir Kedua: Johor Darul Ta'zim lwn Kuala Lumpur City dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor Bahru.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4209" start="20260602190000 +0800" stop="20260602220000 +0800">
-<title lang="zh">MFL Challenge Cup 2025/26: SAB lwn PEN</title>
-<desc>MFL Challenge Cup 2025/26: Perlawanan Akhir Kedua: Sabah FC lwn Penang FC dari Stadium Majlis Likas, Kota Kinabalu, Sabah.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4209" start="20260602220000 +0800" stop="20260603000000 +0800">
-<title lang="zh">AFC Elite 2025/26: Final</title>
-<desc>AFC Champions League Elite 2025/26: Perlawanan Akhir.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4209" start="20260603010000 +0800" stop="20260603013000 +0800">
-<title lang="zh">Sorotan MSL 2025/26: PDRM lwn KTRW</title>
-<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: PDRM lwn Kelantan The Real Warriors FC.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603013000 +0800" stop="20260603020000 +0800">
-<title lang="zh">Sorotan MSL 2025/26: PEN lwn KTRW</title>
-<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Penang lwn Kelantan The Real Warriors FC.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603020000 +0800" stop="20260603040000 +0800">
-<title lang="zh">MSL 2025/26: KTRW lwn KLC</title>
-<desc>Liga Super 2025/26 perlawanan ke-127: Kelantan The Real Warriors FC lwn Kuala Lumpur City FC dari Stadium Sultan Muhammad ke IV, Kota Bahru, Kelantan.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603040000 +0800" stop="20260603060000 +0800">
-<title lang="zh">MSL 2025/26: PEN lwn KUC</title>
-<desc>Liga Super 2025/26 perlawanan ke-124: Penang lwn Kuching City dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603060000 +0800" stop="20260603080000 +0800">
-<title lang="zh">MSL 2025/26: NSE lwn PEN</title>
-<desc>Liga Super 2025/26 perlawanan ke-117: Negeri Sembilan FC lwn Penang FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603080000 +0800" stop="20260603100000 +0800">
-<title lang="zh">MSL 2025/26: KLC lwn MEL</title>
-<desc>Liga Super 2025/26 perlawanan ke-118: Kuala Lumpur City FC lwn Melaka dari Stadium Bolasepak Kuala Lumpur, Cheras. Selangor.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603100000 +0800" stop="20260603120000 +0800">
-<title lang="zh">MSL 2025/26: SEL lwn IFC</title>
-<desc>Liga Super 2025/26 perlawanan ke-119: Selangor FC lwn Imigresen FC dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603120000 +0800" stop="20260603130000 +0800">
-<title lang="zh">Bola Dulu Baru Kamu!</title>
-<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603130000 +0800" stop="20260603150000 +0800">
-<title lang="zh">MSL 2025/26: JDT lwn PDRM</title>
-<desc>Liga Super 2025/26 perlawanan ke-120: Johor Darul Ta'zim lwn PDRM dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603150000 +0800" stop="20260603170000 +0800">
+<programme channel="4209" start="20260607060000 +0800" stop="20260607080000 +0800">
 <title lang="zh">MSL 2025/26: KUC lwn KLC</title>
 <desc>Liga Super 2025/26 perlawanan ke-155: Kuching City lwn Kuala Lumpur City dari Stadium Negeri, Kuching, Sarawak.</desc>
-<date>2026-06-03</date>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4209" start="20260603170000 +0800" stop="20260603190000 +0800">
+<programme channel="4209" start="20260607080000 +0800" stop="20260607100000 +0800">
+<title lang="zh">MSL 2025/26: NSE lwn KTRW</title>
+<desc>Liga Super 2025/26 perlawanan ke-156: Negeri Sembilan lwn Kelantan The Real Warriors FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607100000 +0800" stop="20260607120000 +0800">
+<title lang="zh">MSL 2025/26: IFC lwn MEL</title>
+<desc>Liga Super 2025/26 perlawanan ke-154: Imigresen lwn Melaka dari Stadium Tuanku Syed Putra, Kangar, Perlis.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607120000 +0800" stop="20260607140000 +0800">
+<title lang="zh">MSL 2025/26: SAB lwn TER</title>
+<desc>Liga Super 2025/26 perlawanan ke-153: Sabah lwn Terengganu dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607140000 +0800" stop="20260607150000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607150000 +0800" stop="20260607153000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: IFC lwn NSE</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Imigresen lwn Negeri Sembilan.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607153000 +0800" stop="20260607160000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: TER lwn MEL</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Terengganu lwn Melaka.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607160000 +0800" stop="20260607180000 +0800">
+<title lang="zh">MSL 2025/26: PEN lwn DPMM</title>
+<desc>Liga Super 2025/26 perlawanan ke-152: Penang lwn DPMM dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4209" start="20260607180000 +0800" stop="20260607200000 +0800">
 <title lang="zh">MSL 2025/26: KTRW lwn JDT</title>
 <desc>Liga Super 2025/26 perlawanan ke-150: Kelantan The Real Warriors FC lwn Johor Darul Ta'zim dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
-<date>2026-06-03</date>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4209" start="20260603190000 +0800" stop="20260603193000 +0800">
-<title lang="zh">Sorotan MSL 2025/26: KLC lwn PDRM</title>
-<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Kuala Lumpur City lwn PDRM.</desc>
-<date>2026-06-03</date>
+<programme channel="4209" start="20260607200000 +0800" stop="20260607220000 +0800">
+<title lang="zh">MSL 2025/26: SEL lwn PDRM</title>
+<desc>Liga Super 2025/26 perlawanan ke-151: Selangor lwn PDRM dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4209" start="20260603193000 +0800" stop="20260603213000 +0800">
-<title lang="zh">Piala Shopee 2025/26: SEL lwn BUR</title>
-<desc>Piala Shopee 2025/26: Perlawanan Akhir Pusingan Pertama: Selangor lwn Buriram United dari Stadium Majlis Perbandaran Petaling Jaya, Selangor.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603213000 +0800" stop="20260603233000 +0800">
-<title lang="zh">Piala Shopee 2025/26: BUR lwn SEL</title>
-<desc>Piala Shopee 2025/26: Perlawanan Akhir Pusingan Kedua: Buriram United lwn Selangor dari Chang Arena, Buriram, Thailand.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260603233000 +0800" stop="20260604000000 +0800">
-<title lang="zh">Sorotan MSL 2025/26: PDRM lwn KTRW</title>
-<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: PDRM lwn Kelantan The Real Warriors FC.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="4209" start="20260604000000 +0800" stop="20260605000000 +0800">
-<title lang="zh">MSL 2025/26: KTRW lwn JDT</title>
-<desc>Liga Super 2025/26 perlawanan ke-150: Kelantan The Real Warriors FC lwn Johor Darul Ta'zim dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
-<date>2026-06-04</date>
+<programme channel="4209" start="20260607220000 +0800" stop="20260608000000 +0800">
+<title lang="zh">Piala Malaysia 2025/26: Akhir: JDT lwn KUC</title>
+<desc>Piala Malaysia 2025/26: Perlawnan Akhir: Johor Darul Ta'zim lwn Kuching City FC dari TM Stadium Nasional Bukit Jalil, Kuala Lumpur..</desc>
+<date>2026-06-07</date>
 </programme>
 </tv>
