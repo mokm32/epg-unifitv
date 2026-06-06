@@ -1,347 +1,352 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260602191203 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/397397/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=397397&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260606204020 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/397397/20260606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=397397&date=20260606&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="397397">
 <display-name lang="Malaysia">Astro Premier League 2</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018013047543202_17.png"/>
 </channel>
-<programme channel="397397" start="20260602000000 +0800" stop="20260602003000 +0800">
-<title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
-<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602003000 +0800" stop="20260602010000 +0800">
-<title lang="zh">Netbusters: Ep38</title>
-<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602010000 +0800" stop="20260602013000 +0800">
-<title lang="zh">PL World Beaters: Ep01</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602013000 +0800" stop="20260602020000 +0800">
-<title lang="zh">PL World Beaters: Ep02</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602020000 +0800" stop="20260602023000 +0800">
+<programme channel="397397" start="20260606003000 +0800" stop="20260606010000 +0800">
 <title lang="zh">PL World Beaters: Ep03</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602023000 +0800" stop="20260602030000 +0800">
-<title lang="zh">PL World Beaters: Ep04</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<programme channel="397397" start="20260606010000 +0800" stop="20260606020000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602030000 +0800" stop="20260602033000 +0800">
-<title lang="zh">PL World Beaters: Ep05</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<programme channel="397397" start="20260606020000 +0800" stop="20260606023000 +0800">
+<title lang="zh">The Big Interview: Ep40: Tyler Adams Ep40</title>
+<desc>Tyler Adams' story is one of dedication, commitment and sacrifice. From the early days when his mother would drive him hundreds of miles to training to pursue a dream.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602033000 +0800" stop="20260602043000 +0800">
-<title lang="zh">Review</title>
-<desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602043000 +0800" stop="20260602063000 +0800">
-<title lang="zh">Review of the Season: 2025/2026</title>
-<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602063000 +0800" stop="20260602070000 +0800">
+<programme channel="397397" start="20260606023000 +0800" stop="20260606030000 +0800">
 <title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
 <desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602070000 +0800" stop="20260602073000 +0800">
-<title lang="zh">Netbusters: Ep38</title>
-<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602073000 +0800" stop="20260602080000 +0800">
-<title lang="zh">Netbusters: Erling Haaland's 100</title>
-<desc>We celebrate Erling Haaland's record-breaking haul in true Netbusters' style, showcasing every one of his 100 Premier League goals, squeezed into a special 26-minute show.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602080000 +0800" stop="20260602083000 +0800">
-<title lang="zh">PL World Beaters: Ep01</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602083000 +0800" stop="20260602090000 +0800">
-<title lang="zh">PL World Beaters: Ep02</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602090000 +0800" stop="20260602093000 +0800">
-<title lang="zh">PL World Beaters: Ep03</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602093000 +0800" stop="20260602100000 +0800">
-<title lang="zh">PL World Beaters: Ep04</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602100000 +0800" stop="20260602103000 +0800">
-<title lang="zh">PL World Beaters: Ep05</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602103000 +0800" stop="20260602110000 +0800">
-<title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
-<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602110000 +0800" stop="20260602113000 +0800">
-<title lang="zh">PL Stories: Ep25: Sol Campbell Ep25</title>
-<desc>Ahead of the first North London derby of the season, we sit down with the man who made one of most controversial transfers in World football; Sol Campbell..</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602113000 +0800" stop="20260602123000 +0800">
+<programme channel="397397" start="20260606030000 +0800" stop="20260606040000 +0800">
 <title lang="zh">PL Moments: Ep10: Patrick Vieira Ep10</title>
 <desc>Patrick Vieira revisits the defining moments of his legendary Premier League career, counting down the 10 greatest memories from his time in England.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602123000 +0800" stop="20260602130000 +0800">
-<title lang="zh">PL World Beaters: Ep02</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<programme channel="397397" start="20260606040000 +0800" stop="20260606043000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602130000 +0800" stop="20260602133000 +0800">
-<title lang="zh">PL World Beaters: Ep03</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602133000 +0800" stop="20260602140000 +0800">
-<title lang="zh">Netbusters: Ep38</title>
-<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602140000 +0800" stop="20260602150000 +0800">
-<title lang="zh">Goals of the Season: 2025/2026</title>
-<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602150000 +0800" stop="20260602160000 +0800">
+<programme channel="397397" start="20260606043000 +0800" stop="20260606053000 +0800">
 <title lang="zh">Review</title>
 <desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602160000 +0800" stop="20260602170000 +0800">
-<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
-<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602170000 +0800" stop="20260602173000 +0800">
+<programme channel="397397" start="20260606053000 +0800" stop="20260606060000 +0800">
 <title lang="zh">PL World Beaters: Ep01</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602173000 +0800" stop="20260602180000 +0800">
+<programme channel="397397" start="20260606060000 +0800" stop="20260606063000 +0800">
 <title lang="zh">PL World Beaters: Ep02</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602180000 +0800" stop="20260602183000 +0800">
+<programme channel="397397" start="20260606063000 +0800" stop="20260606070000 +0800">
 <title lang="zh">PL World Beaters: Ep03</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602183000 +0800" stop="20260602190000 +0800">
+<programme channel="397397" start="20260606070000 +0800" stop="20260606073000 +0800">
 <title lang="zh">PL World Beaters: Ep04</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602190000 +0800" stop="20260602193000 +0800">
+<programme channel="397397" start="20260606073000 +0800" stop="20260606080000 +0800">
 <title lang="zh">PL World Beaters: Ep05</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602193000 +0800" stop="20260602200000 +0800">
-<title lang="zh">Netbusters: Ep38</title>
-<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-<date>2026-06-02</date>
+<programme channel="397397" start="20260606080000 +0800" stop="20260606090000 +0800">
+<title lang="zh">PL Moments: Ep10: Patrick Vieira Ep10</title>
+<desc>Patrick Vieira revisits the defining moments of his legendary Premier League career, counting down the 10 greatest memories from his time in England.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602200000 +0800" stop="20260602210000 +0800">
-<title lang="zh">Goals of the Season: 2025/2026</title>
-<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602210000 +0800" stop="20260602220000 +0800">
-<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
-<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602220000 +0800" stop="20260602223000 +0800">
-<title lang="zh">PL World Beaters: Ep01</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="397397" start="20260602223000 +0800" stop="20260602230000 +0800">
+<programme channel="397397" start="20260606090000 +0800" stop="20260606093000 +0800">
 <title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
 <desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260602230000 +0800" stop="20260603000000 +0800">
+<programme channel="397397" start="20260606093000 +0800" stop="20260606103000 +0800">
 <title lang="zh">Review of the Season: 2025/2026</title>
 <desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603010000 +0800" stop="20260603020000 +0800">
-<title lang="zh">Review</title>
-<desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
-<date>2026-06-03</date>
+<programme channel="397397" start="20260606103000 +0800" stop="20260606110000 +0800">
+<title lang="zh">Netbusters: Ep38</title>
+<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603020000 +0800" stop="20260603030000 +0800">
+<programme channel="397397" start="20260606110000 +0800" stop="20260606120000 +0800">
 <title lang="zh">Goals of the Season: 2025/2026</title>
 <desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603030000 +0800" stop="20260603040000 +0800">
-<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
-<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603040000 +0800" stop="20260603043000 +0800">
-<title lang="zh">PL World Beaters: Ep01</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603043000 +0800" stop="20260603050000 +0800">
-<title lang="zh">PL World Beaters: Ep02</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603050000 +0800" stop="20260603053000 +0800">
-<title lang="zh">PL World Beaters: Ep03</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603053000 +0800" stop="20260603060000 +0800">
-<title lang="zh">PL World Beaters: Ep04</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603060000 +0800" stop="20260603063000 +0800">
-<title lang="zh">PL World Beaters: Ep05</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603063000 +0800" stop="20260603073000 +0800">
-<title lang="zh">Review</title>
-<desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603073000 +0800" stop="20260603080000 +0800">
+<programme channel="397397" start="20260606120000 +0800" stop="20260606123000 +0800">
 <title lang="zh">PL Stories: Ep47: Norwegian Strikers Ep47</title>
 <desc>We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603080000 +0800" stop="20260603090000 +0800">
-<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
-<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603090000 +0800" stop="20260603110000 +0800">
-<title lang="zh">Review of the Season: 2025/2026</title>
-<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603110000 +0800" stop="20260603120000 +0800">
-<title lang="zh">Goals of the Season: 2025/2026</title>
-<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603120000 +0800" stop="20260603123000 +0800">
+<programme channel="397397" start="20260606123000 +0800" stop="20260606130000 +0800">
 <title lang="zh">Netbusters: Erling Haaland's 100</title>
 <desc>We celebrate Erling Haaland's record-breaking haul in true Netbusters' style, showcasing every one of his 100 Premier League goals, squeezed into a special 26-minute show.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603123000 +0800" stop="20260603130000 +0800">
-<title lang="zh">PL Stories: Ep47: Norwegian Strikers Ep47</title>
-<desc>We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
-<date>2026-06-03</date>
+<programme channel="397397" start="20260606130000 +0800" stop="20260606133000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603130000 +0800" stop="20260603133000 +0800">
-<title lang="zh">PL World Beaters: Ep04</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603133000 +0800" stop="20260603140000 +0800">
-<title lang="zh">PL World Beaters: Ep05</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603140000 +0800" stop="20260603150000 +0800">
-<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
-<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603150000 +0800" stop="20260603153000 +0800">
+<programme channel="397397" start="20260606133000 +0800" stop="20260606140000 +0800">
 <title lang="zh">PL World Beaters: Ep01</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603153000 +0800" stop="20260603160000 +0800">
+<programme channel="397397" start="20260606140000 +0800" stop="20260606143000 +0800">
 <title lang="zh">PL World Beaters: Ep02</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260603160000 +0800" stop="20260603163000 +0800">
-<title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
-<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603163000 +0800" stop="20260603183000 +0800">
-<title lang="zh">Review of the Season: 2025/2026</title>
-<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603183000 +0800" stop="20260603193000 +0800">
-<title lang="zh">Goals of the Season: 2025/2026</title>
-<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603193000 +0800" stop="20260603203000 +0800">
-<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
-<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603203000 +0800" stop="20260603213000 +0800">
-<title lang="zh">Review</title>
-<desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603213000 +0800" stop="20260603220000 +0800">
-<title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
-<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603220000 +0800" stop="20260603223000 +0800">
-<title lang="zh">Netbusters: Ep38</title>
-<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603223000 +0800" stop="20260603230000 +0800">
-<title lang="zh">PL World Beaters: Ep01</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603230000 +0800" stop="20260603233000 +0800">
-<title lang="zh">PL World Beaters: Ep02</title>
-<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
-</programme>
-<programme channel="397397" start="20260603233000 +0800" stop="20260604000000 +0800">
+<programme channel="397397" start="20260606143000 +0800" stop="20260606150000 +0800">
 <title lang="zh">PL World Beaters: Ep03</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-03</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="397397" start="20260604000000 +0800" stop="20260605000000 +0800">
+<programme channel="397397" start="20260606150000 +0800" stop="20260606153000 +0800">
 <title lang="zh">PL World Beaters: Ep04</title>
 <desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
-<date>2026-06-04</date>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606153000 +0800" stop="20260606160000 +0800">
+<title lang="zh">PL World Beaters: Ep05</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606160000 +0800" stop="20260606170000 +0800">
+<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
+<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606170000 +0800" stop="20260606180000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606180000 +0800" stop="20260606183000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606183000 +0800" stop="20260606193000 +0800">
+<title lang="zh">Review of the Season: 2025/2026</title>
+<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606193000 +0800" stop="20260606200000 +0800">
+<title lang="zh">The Big Interview: Ep40: Tyler Adams Ep40</title>
+<desc>Tyler Adams' story is one of dedication, commitment and sacrifice. From the early days when his mother would drive him hundreds of miles to training to pursue a dream.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606200000 +0800" stop="20260606210000 +0800">
+<title lang="zh">PL Moments: Ep10: Patrick Vieira Ep10</title>
+<desc>Patrick Vieira revisits the defining moments of his legendary Premier League career, counting down the 10 greatest memories from his time in England.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606210000 +0800" stop="20260606213000 +0800">
+<title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
+<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606213000 +0800" stop="20260606223000 +0800">
+<title lang="zh">Review of the Season: 2025/2026</title>
+<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606223000 +0800" stop="20260606230000 +0800">
+<title lang="zh">Netbusters: Ep38</title>
+<desc>Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260606230000 +0800" stop="20260607000000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="397397" start="20260607000000 +0800" stop="20260607003000 +0800">
+<title lang="zh">PL Stories: Ep47: Norwegian Strikers Ep47</title>
+<desc>We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607003000 +0800" stop="20260607010000 +0800">
+<title lang="zh">Netbusters: Erling Haaland's 100</title>
+<desc>We celebrate Erling Haaland's record-breaking haul in true Netbusters' style, showcasing every one of his 100 Premier League goals, squeezed into a special 26-minute show.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607010000 +0800" stop="20260607013000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607013000 +0800" stop="20260607020000 +0800">
+<title lang="zh">PL World Beaters: Ep01</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607020000 +0800" stop="20260607023000 +0800">
+<title lang="zh">PL World Beaters: Ep02</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607023000 +0800" stop="20260607030000 +0800">
+<title lang="zh">PL World Beaters: Ep03</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607030000 +0800" stop="20260607033000 +0800">
+<title lang="zh">PL World Beaters: Ep04</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607033000 +0800" stop="20260607040000 +0800">
+<title lang="zh">PL World Beaters: Ep05</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607040000 +0800" stop="20260607050000 +0800">
+<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
+<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607050000 +0800" stop="20260607060000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607060000 +0800" stop="20260607063000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607063000 +0800" stop="20260607070000 +0800">
+<title lang="zh">PL Stories: Ep47: Norwegian Strikers Ep47</title>
+<desc>We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607070000 +0800" stop="20260607080000 +0800">
+<title lang="zh">Review</title>
+<desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607080000 +0800" stop="20260607100000 +0800">
+<title lang="zh">Review of the Season: 2025/2026</title>
+<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607100000 +0800" stop="20260607110000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607110000 +0800" stop="20260607113000 +0800">
+<title lang="zh">PL Stories: Ep26: Eden Hazard: PL Hall of Fame Ep26</title>
+<desc>We sit down for an exclusive interview with the first of two new Premier League Hall of fame inductees, Eden Hazard.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607113000 +0800" stop="20260607120000 +0800">
+<title lang="zh">PL Stories: Ep27: Gary Neville: PL Hall of Fame Ep27</title>
+<desc>We sit down for an exclusive interview with the second of two new Premier League Hall of fame inductees, Gary Neville.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607120000 +0800" stop="20260607123000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607123000 +0800" stop="20260607130000 +0800">
+<title lang="zh">PL Stories: Ep52: the Great North London Divide Ep52</title>
+<desc>Set against one of the most dramatic seasons in recent memory, we explore the enduring intensity of the North London rivalry between Arsenal and Tottenham Hotspur.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607130000 +0800" stop="20260607140000 +0800">
+<title lang="zh">PL Moments: Ep10: Patrick Vieira Ep10</title>
+<desc>Patrick Vieira revisits the defining moments of his legendary Premier League career, counting down the 10 greatest memories from his time in England.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607140000 +0800" stop="20260607150000 +0800">
+<title lang="zh">PL Goats: Ep02: Italian Stars With Gianfranco Zola Ep02</title>
+<desc>This week, we sit down with two Italian legends, Roberto Di Matteo and Gianfranco Zola to discuss the indelible mark of Italian players on the Premier League.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607150000 +0800" stop="20260607160000 +0800">
+<title lang="zh">Review</title>
+<desc>Review bursts into life with Matchweek 1 of the 2025/26 Premier League with a blockbuster Sunday showdown.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607160000 +0800" stop="20260607170000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607170000 +0800" stop="20260607173000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607173000 +0800" stop="20260607180000 +0800">
+<title lang="zh">PL World Beaters: Ep01</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607180000 +0800" stop="20260607183000 +0800">
+<title lang="zh">PL World Beaters: Ep02</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607183000 +0800" stop="20260607190000 +0800">
+<title lang="zh">PL World Beaters: Ep03</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607190000 +0800" stop="20260607193000 +0800">
+<title lang="zh">PL World Beaters: Ep04</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607193000 +0800" stop="20260607200000 +0800">
+<title lang="zh">PL World Beaters: Ep05</title>
+<desc>A strand that heroes the Premier League stars who could play leading roles for their national teams competing in the FIFA World Cup 2026 this summer.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607200000 +0800" stop="20260607220000 +0800">
+<title lang="zh">Review of the Season: 2025/2026</title>
+<desc>As we wave goodbye to another action-packed and compelling Premier League campaign, Review of the Season takes you through the twists and turns of a gripping last 10 months.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607220000 +0800" stop="20260607230000 +0800">
+<title lang="zh">Goals of the Season: 2025/2026</title>
+<desc>From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 25/26 campaign, whilst paying homage to the Golden Boot winner.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607230000 +0800" stop="20260607233000 +0800">
+<title lang="zh">PL Stories: Ep26: Eden Hazard: PL Hall of Fame Ep26</title>
+<desc>We sit down for an exclusive interview with the first of two new Premier League Hall of fame inductees, Eden Hazard.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260607233000 +0800" stop="20260608000000 +0800">
+<title lang="zh">PL Stories: Ep27: Gary Neville: PL Hall of Fame Ep27</title>
+<desc>We sit down for an exclusive interview with the second of two new Premier League Hall of fame inductees, Gary Neville.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="397397" start="20260608000000 +0800" stop="20260609000000 +0800">
+<title lang="zh">PL Stories: Ep01</title>
+<desc>Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.</desc>
+<date>2026-06-08</date>
 </programme>
 </tv>
