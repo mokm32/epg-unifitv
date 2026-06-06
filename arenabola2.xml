@@ -1,137 +1,157 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<tv date="20260602191055 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/4215/20260602.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=4215&date=20260602&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
+<tv date="20260606203913 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/4215/20260606.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=4215&date=20260606&timezone=QXNpYS9LdWFsYV9MdW1wdXI=">
 <channel id="4215">
 <display-name lang="Malaysia">Arena Bola 2</display-name>
 <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610061627091483_92.png"/>
 </channel>
-<programme channel="4215" start="20260602000000 +0800" stop="20260602020000 +0800">
+<programme channel="4215" start="20260606000000 +0800" stop="20260606010000 +0800">
+<title lang="zh">Bola Dulu Baru Kamu!</title>
+<desc>4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606010000 +0800" stop="20260606030000 +0800">
+<title lang="zh">MSL 2025/26: PDRM lwn JDT</title>
+<desc>Liga Super 2025/26 perlawanan ke-42: PDRM lwn Johor Darul Ta'zim dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606030000 +0800" stop="20260606050000 +0800">
+<title lang="zh">MSL 2025/26: KTRW lwn MEL</title>
+<desc>Liga Super 2025/26 perlawanan ke-43: Kelantan The Real Warriors FC lwn Melaka dari Stadium Sultan Muhammad ke IV, Kota Bahru, Kelantan.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606050000 +0800" stop="20260606053000 +0800">
+<title lang="zh">Sorotan MSL 2024/25: KDN lwn PRK</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2024/25: Kelantan Darul Naim lwn Perak.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606053000 +0800" stop="20260606060000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: MEL lwn PEN</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Melaka lwn Penang.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606060000 +0800" stop="20260606080000 +0800">
+<title lang="zh">MSL 2025/26: KUC lwn PEN</title>
+<desc>Liga Super 2025/26 perlawanan ke-44: Kuching City lwn Penang dari Stadium Negeri, Kuching, Sarawak.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606080000 +0800" stop="20260606100000 +0800">
+<title lang="zh">Piala MFL 2024/25 : KLC E lwn SRP</title>
+<desc>Piala MFL 2024/25: KL City Extensions lwn Sri Pahang dari Stadium Bola Sepak Kuala Lumpur, Cheras, Kuala Lumpur.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606100000 +0800" stop="20260606120000 +0800">
+<title lang="zh">Piala MFL 2024/25 : SEL lwn PRK II</title>
+<desc>Piala MFL 2024/25: Selangor lwn Perak II dari Stadium UITM, Shah Alam, Selangor.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606120000 +0800" stop="20260606140000 +0800">
+<title lang="zh">Piala MFL 2024/25: PDRM lwn KLCE</title>
+<desc>Piala MFL 2024/25: PDRM lwn KL City Extensions dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+<date>2026-06-06</date>
+</programme>
+<programme channel="4215" start="20260606140000 +0800" stop="20260606160000 +0800">
 <title lang="zh">ACL Women's Champions: Melbourne lwn Lion City</title>
 <desc>ACL Women's Champions League 2025/26: Melbourne City FC lwn Lion City Sailors FC dari Stadium Thong Nhat, Ho Chi Minh City, Vietnam.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4215" start="20260602020000 +0800" stop="20260602040000 +0800">
+<programme channel="4215" start="20260606160000 +0800" stop="20260606180000 +0800">
 <title lang="zh">ACL Women's Champions : Ho Chi Minh City lwn Stallion Laguna</title>
 <desc>ACL Women's Champions League 2025/26: Ho Chi Minh City Women's FC lwn Stallion Laguna FC dari Stadium Thong Nhat, Ho Chi Minh City, Vietnam.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4215" start="20260602040000 +0800" stop="20260602060000 +0800">
-<title lang="zh">Piala MFL 2024/25 : SEL lwn TER II</title>
-<desc>Piala MFL 2024/25: Selangor lwn Terengganu II dari Stadium UiTM, Shah Alam, Selangor.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602060000 +0800" stop="20260602080000 +0800">
-<title lang="zh">Piala MFL 2024/25 : KLC E lwn TER II</title>
-<desc>Piala MFL 2024/25: KL City Extensions lwn Terengganu II dari Stadium Bola Sepak Kuala Lumpur, Cheras, Kuala Lumpur.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602080000 +0800" stop="20260602100000 +0800">
-<title lang="zh">Piala MFL 2024/25 : SEL lwn SRP</title>
-<desc>Piala MFL 2024/25: Selangor lwn Sri Pahang dari Stadium UiTM, Shah Alam, Selangor.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602100000 +0800" stop="20260602120000 +0800">
-<title lang="zh">AFC Two 2025/26: BGP lwn TRF</title>
-<desc>AFC Champions League Two 2025/26: BG Pathum United lwn Tampines Rovers FC dari Stadium True BG, Bueng Yitho, Thailand.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602120000 +0800" stop="20260602140000 +0800">
-<title lang="zh">AFC Two 2025/26: NAS lwn ZAW</title>
-<desc>AFC Champions League Two 2025/26: Al Nassr Club lwn Al Zawraa SC dari Stadium Al -Awwal Park, Riyadh, Arab Saudi.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602140000 +0800" stop="20260602160000 +0800">
-<title lang="zh">AFC Two 2025/26: WAS lwn AWE</title>
-<desc>AFC Champions League Two 2025/26: Al Wasl FC lwn Al Wehdat dari Stadium Zabeel, Dubai, UAE.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602160000 +0800" stop="20260602180000 +0800">
-<title lang="zh">Piala FA 2025/26: IFC lwn TER</title>
-<desc>Piala FA 2025/26: Pusingan ke 16: Imigresen lwn Terengganu FC dari Stadium Batu Kawan, Seberang Perai, Pulau Pinang.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602180000 +0800" stop="20260602200000 +0800">
-<title lang="zh">Piala FA 2025/26: BRD lwn SAB</title>
-<desc>Piala FA 2025/26: Pusingan ke 16: Bunga Raya lwn Sabah dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602200000 +0800" stop="20260602220000 +0800">
-<title lang="zh">Piala FA 2025/26: MEL lwn PEN</title>
-<desc>Piala FA 2025/26: Pusingan ke 16: Melaka FC lwn Penang FC dari Stadium Hang Jebat, Krubong, Melaka.</desc>
-<date>2026-06-02</date>
-</programme>
-<programme channel="4215" start="20260602220000 +0800" stop="20260603000000 +0800">
+<programme channel="4215" start="20260606180000 +0800" stop="20260606200000 +0800">
 <title lang="zh">ACL Women's Champions : Stallion Laguna lwn Melbourne City</title>
 <desc>ACL Women's Champions League 2025/26: Stallion Laguna FC lwn Melbourne City dari Stadium Thong Nhat, Ho Chi Minh City, Vietnam.</desc>
-<date>2026-06-02</date>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4215" start="20260603000000 +0800" stop="20260603020000 +0800">
-<title lang="zh">ACL Women's Champions : Naegohyang lwn ISPE WFC</title>
-<desc>ACL Women's Champions League 2025/26: Naegohyang Women's FC lwn ISPE WFC dari Stadium Thuwunna Youth Training Center, Yangon, Myanmar.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260606200000 +0800" stop="20260606220000 +0800">
+<title lang="zh">AFC Two 2025/26: BUFC lwn MAC</title>
+<desc>AFC Champions League Two 2025/26: Bangkok United lwn Macarthur FC dari Stadium Thammasat, Khlong Nueng, Thailand.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4215" start="20260603020000 +0800" stop="20260603040000 +0800">
-<title lang="zh">MSL 2025/26: PDRM lwn SAB</title>
-<desc>Liga Super 2025/26 perlawanan ke-62: PDRM lwn Sabah dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260606220000 +0800" stop="20260607000000 +0800">
+<title lang="zh">AFC Two 2025/26: POH lwn GOK</title>
+<desc>AFC Champions League Two 2025/26: FC Pohang Steelers lwn Gamba Osaka dari Stadium Pohang Steel Yard, Pohang, Korea Selatan.</desc>
+<date>2026-06-06</date>
 </programme>
-<programme channel="4215" start="20260603040000 +0800" stop="20260603060000 +0800">
-<title lang="zh">MSL 2025/26: MEL lwn NSE</title>
-<desc>Liga Super 2025/26 perlawanan ke-63: Melaka lwn Negeri Sembilan dari Stadium Hang Jebat, Melaka.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607000000 +0800" stop="20260607003000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: SEL lwn TER</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Selangor lwn Terengganu.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603060000 +0800" stop="20260603080000 +0800">
-<title lang="zh">MSL 2025/26: JDT lwn DPMM</title>
-<desc>Liga Super 2025/26 perlawanan ke-45: Johor Darul Ta'zim lwn DPMM dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607003000 +0800" stop="20260607010000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: MEL lwn DPMM</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Melaka lwn DPMM.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603080000 +0800" stop="20260603100000 +0800">
-<title lang="zh">MSL 2025/26: NSE lwn PDRM</title>
-<desc>Liga Super 2025/26 perlawanan ke-46: Negeri Sembilan lwn PDRM dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607010000 +0800" stop="20260607030000 +0800">
+<title lang="zh">AFC Two 2025/26: ARK lwn NAS</title>
+<desc>AFC Champions League Two 2025/26: FC Arkadag lwn Al Nassr Club dari Stadium Ashgabat, Ashgabat, Turkmenistan.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603100000 +0800" stop="20260603120000 +0800">
-<title lang="zh">MSL 2025/26: SEL lwn KLC</title>
-<desc>Liga Super 2025/26 perlawanan ke-48: Selangor FC lwn Kuala Lumpur City dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607030000 +0800" stop="20260607050000 +0800">
+<title lang="zh">Piala FA 2025/26: SAB lwn KTRW</title>
+<desc>Piala FA 2025/26: Suku Akhir Pusingan Kedua: Sabah lwn Kelantan The Red Warriors dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603120000 +0800" stop="20260603140000 +0800">
-<title lang="zh">Piala MFL 2024/25 : SEL lwn TER II</title>
-<desc>Piala MFL 2024/25: Selangor lwn Terengganu II dari Stadium UiTM, Shah Alam, Selangor.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607050000 +0800" stop="20260607053000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: PEN lwn KTRW</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Penang lwn Kelantan The Real Warriors FC.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603140000 +0800" stop="20260603160000 +0800">
-<title lang="zh">Piala MFL 2024/25 : KLC E lwn TER II</title>
-<desc>Piala MFL 2024/25: KL City Extensions lwn Terengganu II dari Stadium Bola Sepak Kuala Lumpur, Cheras, Kuala Lumpur.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607053000 +0800" stop="20260607060000 +0800">
+<title lang="zh">Sorotan MSL 2025/26: NSE lwn KUC</title>
+<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Negeri Sembilan lwn Kuching City.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603160000 +0800" stop="20260603180000 +0800">
-<title lang="zh">Piala MFL 2024/25 : SEL lwn SRP</title>
-<desc>Piala MFL 2024/25: Selangor lwn Sri Pahang dari Stadium UiTM, Shah Alam, Selangor.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607060000 +0800" stop="20260607080000 +0800">
+<title lang="zh">Piala MFL 2024/25 : SEL lwn KLC E</title>
+<desc>Piala MFL 2024/25: Selangor lwn KL City Extensions dari Stadium UITM, Shah Alam, Selangor.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603180000 +0800" stop="20260603200000 +0800">
-<title lang="zh">AFC Two 2025/26: ZAW lwn WAS</title>
-<desc>AFC Champions League Two 2025/26: Al Zawraa SC lwn Al Wasl FC dari Stadium Hamad bin Khalifa, Doha, Qatar.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607080000 +0800" stop="20260607100000 +0800">
+<title lang="zh">Piala MFL 2024/25 : PRK II lwn KUC</title>
+<desc>Piala MFL 2024/25: Perak II lwn Kuching City dari Stadium Majlis Perbandaran Manjung, Perak.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603200000 +0800" stop="20260603220000 +0800">
-<title lang="zh">AFC Two 2025/26: PSB lwn RBFG</title>
-<desc>AFC Champions League Two 2025/26: Persib Bandung lwn Ratchaburi dari Stadium Gelora Bandung Lautan Api, Kota Bandung, Indonesia.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607100000 +0800" stop="20260607120000 +0800">
+<title lang="zh">ACL Women's Champions : Tokyo Verdy lwn Stallion Laguna</title>
+<desc>ACL Women's Champions League 2025/26: Tokyo Verdy Beleza lwn Stallion Laguna FC dari Stadium Tokyo, Jepun.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603220000 +0800" stop="20260603223000 +0800">
-<title lang="zh">Sorotan MSL 2025/26: IFC lwn NSE</title>
-<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Imigresen lwn Negeri Sembailan.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607120000 +0800" stop="20260607140000 +0800">
+<title lang="zh">ACL Women's Champions : Naegohyang lwn Ho Chi Minh City</title>
+<desc>ACL Women's Champions League 2025/26: Naegohyang Women's FC lwn Ho Chi Minh City Women's FC dari Stadium Nasional Laos, Vientiane, Laos.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603223000 +0800" stop="20260603230000 +0800">
-<title lang="zh">Sorotan MSL 2025/26: DPMM lwn KLC</title>
-<desc>Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: DPMM lwn Kuala Lumpur City.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607140000 +0800" stop="20260607160000 +0800">
+<title lang="zh">ACL Women's Champions : Wuhan Jiangda lwn Suwon</title>
+<desc>ACL Women's Champions League 2025/26: Wuhan Jiangda Women's FC lwn Suwon FC Women dari Stadium Hankou Cultural Sports Centre, Wuhan, China.</desc>
+<date>2026-06-07</date>
 </programme>
-<programme channel="4215" start="20260603230000 +0800" stop="20260604000000 +0800">
-<title lang="zh">AFC Two 2025/26: HUS lwn EST</title>
-<desc>AFC Champions League Two 2025/26: Al Hussein lwn Esteghlal FC dari Stadium Al-Maktoum, Dubai, UAE.</desc>
-<date>2026-06-03</date>
+<programme channel="4215" start="20260607160000 +0800" stop="20260607180000 +0800">
+<title lang="zh">MSL 2025/26: NSE lwn KLC</title>
+<desc>Liga Super 2025/26 perlawanan ke-72: Negeri Sembilan lwn KL City dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4215" start="20260607180000 +0800" stop="20260607200000 +0800">
+<title lang="zh">MSL 2025/26: PDRM lwn SEL</title>
+<desc>Liga Super 2025/26 perlawanan ke-74: PDRM lwn Selangor dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4215" start="20260607200000 +0800" stop="20260607220000 +0800">
+<title lang="zh">MSL 2025/26: IFC lwn PDRM</title>
+<desc>Liga Super 2025/26 perlawanan ke-59: Imigresen lwn PDRM dari Stadium Negeri Pulau Pinang, Batu Kawan, Pulau Pinang.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4215" start="20260607220000 +0800" stop="20260608000000 +0800">
+<title lang="zh">AFC Two 2025/26: RBFG lwn PSB</title>
+<desc>AFC Champions League Two 2025/26: Ratchaburi FC lwn Persib Bandung dari Stadium Ratchaburi, Na Muang, Thailand.</desc>
+<date>2026-06-07</date>
+</programme>
+<programme channel="4215" start="20260608000000 +0800" stop="20260609000000 +0800">
+<title lang="zh">AFC Two 2025/26: CAH lwn TRF</title>
+<desc>AFC Champions League Two 2025/26: Cong An Ha Noi FC lwn Tampines Rovers FC dari Stadium Hang Day, Hanoi, Vietnam.</desc>
+<date>2026-06-08</date>
 </programme>
 </tv>
